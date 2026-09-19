@@ -1,0 +1,73 @@
+:root {
+  --paper: #f4eee2; --ink: #2b2622; --muted: #6d655c; --accent: #b0634a; --gold: #f0b429; --line: #d9cfbd;
+  --panel-w: 340px;
+}
+* { box-sizing: border-box; }
+html, body, #app { height: 100%; margin: 0; }
+body { font: 14px/1.4 "Open Sans", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); background: var(--paper); }
+#app { display: grid; grid-template-rows: auto 1fr auto; position: relative; }
+#topbar { display: flex; align-items: center; gap: 12px; padding: 8px 14px; background: var(--paper); border-bottom: 1px solid var(--line); z-index: 3; }
+#topbar h1 { font-size: 17px; margin: 0; font-weight: 600; letter-spacing: 0.01em; }
+#year-badge { font-variant-numeric: tabular-nums; font-size: 22px; font-weight: 700; color: var(--accent); margin-left: auto; padding: 0 8px; border-radius: 6px; }
+#year-badge.keyframe { background: rgba(240, 180, 41, 0.22); }
+#about-btn { border: 1px solid var(--line); background: #fff; border-radius: 6px; padding: 5px 10px; cursor: pointer; color: var(--ink); }
+#map { position: relative; min-height: 0; }
+#map .fatal { padding: 24px; color: #8a2f1c; }
+.maplibregl-ctrl-attrib { font-size: 10px; }
+
+#controls { display: grid; grid-template-columns: auto 1fr auto auto auto auto; align-items: center; gap: 10px; padding: 10px 14px 12px; background: var(--paper); border-top: 1px solid var(--line); z-index: 3; }
+#controls button { border: 1px solid var(--line); background: #fff; border-radius: 6px; padding: 6px 10px; cursor: pointer; color: var(--ink); min-width: 36px; }
+#controls button:hover { border-color: var(--accent); }
+#slider-wrap { position: relative; padding: 14px 0 18px; }
+#slider { width: 100%; margin: 0; accent-color: var(--accent); position: relative; z-index: 1; }
+#ticks { position: absolute; left: 8px; right: 8px; top: 0; bottom: 0; pointer-events: none; }
+#ticks .tick { position: absolute; top: 4px; width: 1px; height: 8px; background: #b9ad97; transform: translateX(-50%); pointer-events: auto; }
+#ticks .tick.decade { height: 11px; background: #8f826c; }
+#ticks .tick.extra { background: var(--gold); width: 2px; height: 12px; }
+#ticks .tick i { position: absolute; top: 34px; left: 50%; transform: translateX(-50%); font-style: normal; font-size: 10px; color: var(--muted); white-space: nowrap; }
+#ticks .tick.extra i { color: #9a6c00; font-weight: 600; }
+#year-input { width: 74px; font: inherit; padding: 5px 6px; border: 1px solid var(--line); border-radius: 6px; font-variant-numeric: tabular-nums; }
+#snap-label { color: var(--muted); font-size: 12px; white-space: nowrap; display: flex; align-items: center; gap: 4px; }
+
+#panel { position: absolute; top: 56px; left: 12px; width: var(--panel-w); max-height: calc(100% - 140px); overflow: auto; background: rgba(255, 252, 246, 0.97); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; z-index: 4; box-shadow: 0 6px 24px rgba(40, 30, 20, 0.15); }
+#panel h2 { margin: 0 28px 2px 0; font-size: 17px; }
+#panel h3 { margin: 14px 0 6px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+#panel .addr { margin: 0 0 8px; color: var(--muted); }
+#panel dl { display: grid; grid-template-columns: auto 1fr; gap: 3px 10px; margin: 0; }
+#panel dt { color: var(--muted); }
+#panel dd { margin: 0; }
+#panel .close { position: absolute; top: 8px; right: 10px; border: 0; background: transparent; font-size: 22px; line-height: 1; cursor: pointer; color: var(--muted); }
+#panel ul { margin: 0; padding-left: 0; list-style: none; }
+#panel .tenants li { padding: 5px 8px; border-left: 3px solid transparent; }
+#panel .tenants li.current { border-left-color: var(--gold); background: rgba(240, 180, 41, 0.12); }
+#panel .tenants .range { color: var(--muted); font-variant-numeric: tabular-nums; margin-left: 4px; }
+#panel .tenants .unit { display: block; color: var(--muted); font-size: 12px; }
+#panel .sources li { font-size: 12px; margin: 2px 0; }
+#panel figure { margin: 0; }
+#panel figure img { max-width: 100%; border-radius: 6px; }
+#panel figcaption { font-size: 12px; color: var(--muted); }
+.note { color: var(--muted); font-style: italic; margin: 4px 0; }
+.conf { display: inline-block; font-size: 10px; padding: 0 5px; border-radius: 8px; vertical-align: middle; text-transform: uppercase; letter-spacing: 0.05em; }
+.conf-high { background: #d9ecd2; color: #2e5b2a; }
+.conf-medium { background: #eee5bd; color: #6b5300; }
+.conf-low { background: #f2d9cf; color: #7a3a25; }
+.conf-placeholder { background: #e4e0d8; color: #6d655c; }
+
+#about { position: absolute; top: 56px; right: 12px; width: min(380px, calc(100% - 24px)); max-height: calc(100% - 140px); overflow: auto; background: rgba(255, 252, 246, 0.97); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; z-index: 4; box-shadow: 0 6px 24px rgba(40, 30, 20, 0.15); }
+#about h2 { margin: 0 0 6px; font-size: 17px; }
+#about h3 { margin: 12px 0 4px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+#about p { margin: 4px 0; }
+#about code { font-size: 12px; background: #eee7d9; padding: 0 4px; border-radius: 3px; }
+.legend { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 3px 10px; font-size: 13px; }
+.legend i { display: inline-block; width: 14px; height: 14px; border-radius: 3px; vertical-align: -2px; margin-right: 6px; border: 1px solid rgba(0,0,0,0.12); }
+.legend i.line { height: 4px; vertical-align: 3px; }
+
+@media (max-width: 720px) {
+  #topbar h1 { font-size: 15px; }
+  #controls { grid-template-columns: auto 1fr auto; grid-template-areas: "prev slider next" "year snap play"; gap: 8px; padding: 8px 10px 10px; }
+  #prev-kf { grid-area: prev; } #slider-wrap { grid-area: slider; } #next-kf { grid-area: next; }
+  #year-input { grid-area: year; } #snap-label { grid-area: snap; } #play { grid-area: play; }
+  #panel { left: 8px; right: 8px; width: auto; top: auto; bottom: 8px; max-height: 55%; }
+  #ticks .tick i { display: none; }
+  #ticks .tick.extra i { display: block; }
+}

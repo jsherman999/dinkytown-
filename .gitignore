@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.vite/
+*.log
+public/data/bundle.json
+public/fonts/

@@ -1,0 +1,950 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-327-14th",
+    "name": "Gray's Campus Drug building",
+    "addresses": [
+     "327 14th Ave SE"
+    ],
+    "built_year": 1904,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "medium",
+    "sources": "src-phd-tour;src-wiki"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2362555,
+       44.980427
+      ],
+      [
+       -93.2359864,
+       44.980325
+      ],
+      [
+       -93.2357837,
+       44.9805966
+      ],
+      [
+       -93.2360528,
+       44.9806985
+      ],
+      [
+       -93.2362555,
+       44.980427
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-321-14th",
+    "name": "Dayton's University Store building",
+    "addresses": [
+     "321 14th Ave SE"
+    ],
+    "built_year": 1922,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-alumni"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2364582,
+       44.9801554
+      ],
+      [
+       -93.2361891,
+       44.9800535
+      ],
+      [
+       -93.2359983,
+       44.9803091
+      ],
+      [
+       -93.2362674,
+       44.980411
+      ],
+      [
+       -93.2364582,
+       44.9801554
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-313-14th",
+    "name": "Annie's Parlour building",
+    "addresses": [
+     "313 14th Ave SE"
+    ],
+    "built_year": 1910,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2366013,
+       44.9799637
+      ],
+      [
+       -93.2363322,
+       44.9798618
+      ],
+      [
+       -93.236201,
+       44.9800375
+      ],
+      [
+       -93.2364701,
+       44.9801394
+      ],
+      [
+       -93.2366013,
+       44.9799637
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": 1925,
+    "geometry_status": "placeholder",
+    "id": "b-1315-4th",
+    "name": "Frame dwelling (placeholder)",
+    "addresses": [
+     "1315 4th St SE"
+    ],
+    "built_year": 1890,
+    "stories": 2,
+    "material": "wood",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2366592,
+       44.9805799
+      ],
+      [
+       -93.2363228,
+       44.9804525
+      ],
+      [
+       -93.2361201,
+       44.980724
+      ],
+      [
+       -93.2364565,
+       44.9808514
+      ],
+      [
+       -93.2366592,
+       44.9805799
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-1315-4th-2",
+    "name": "Commercial block (placeholder)",
+    "addresses": [
+     "1315 4th St SE"
+    ],
+    "built_year": 1926,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2366816,
+       44.9805884
+      ],
+      [
+       -93.2363004,
+       44.980444
+      ],
+      [
+       -93.2360976,
+       44.9807155
+      ],
+      [
+       -93.2364789,
+       44.9808599
+      ],
+      [
+       -93.2366816,
+       44.9805884
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 12,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-1308-4th",
+    "name": "Varsity Theater",
+    "addresses": [
+     "1308 4th St SE"
+    ],
+    "built_year": 1915,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "medium",
+    "sources": "src-phd-tour;src-wiki"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2366498,
+       44.9811706
+      ],
+      [
+       -93.2362237,
+       44.9810092
+      ],
+      [
+       -93.2359375,
+       44.9813926
+      ],
+      [
+       -93.2363636,
+       44.981554
+      ],
+      [
+       -93.2366498,
+       44.9811706
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-1316-4th",
+    "name": "Book House / storefronts",
+    "addresses": [
+     "1316 4th St SE"
+    ],
+    "built_year": 1920,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2362012,
+       44.9810007
+      ],
+      [
+       -93.2359321,
+       44.9808987
+      ],
+      [
+       -93.2357652,
+       44.9811224
+      ],
+      [
+       -93.2360343,
+       44.9812243
+      ],
+      [
+       -93.2362012,
+       44.9810007
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 4,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-413-14th",
+    "name": "Al's Breakfast",
+    "addresses": [
+     "413 14th Ave SE"
+    ],
+    "built_year": 1930,
+    "stories": 1,
+    "material": "brick",
+    "confidence": "medium",
+    "sources": "src-wiki-als"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2358024,
+       44.981034
+      ],
+      [
+       -93.2355333,
+       44.9809321
+      ],
+      [
+       -93.2355094,
+       44.980964
+      ],
+      [
+       -93.2357785,
+       44.981066
+      ],
+      [
+       -93.2358024,
+       44.981034
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-411-14th",
+    "name": "Storefront row (placeholder)",
+    "addresses": [
+     "411 14th Ave SE"
+    ],
+    "built_year": 1912,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2359097,
+       44.9808903
+      ],
+      [
+       -93.2356406,
+       44.9807883
+      ],
+      [
+       -93.2355333,
+       44.9809321
+      ],
+      [
+       -93.2358024,
+       44.981034
+      ],
+      [
+       -93.2359097,
+       44.9808903
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-425-14th",
+    "name": "The Podium building",
+    "addresses": [
+     "425 14th Ave SE"
+    ],
+    "built_year": 1925,
+    "stories": 2,
+    "material": "stucco",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2357666,
+       44.981082
+      ],
+      [
+       -93.2354975,
+       44.98098
+      ],
+      [
+       -93.2353544,
+       44.9811717
+      ],
+      [
+       -93.2356235,
+       44.9812737
+      ],
+      [
+       -93.2357666,
+       44.981082
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 3.6,
+    "demolished_year": 2013,
+    "geometry_status": "placeholder",
+    "id": "b-house-of-hanson",
+    "name": "House of Hanson",
+    "addresses": [
+     "1401 5th St SE (approx.)"
+    ],
+    "built_year": 1928,
+    "stories": 1,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-alumni"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2359031,
+       44.9814001
+      ],
+      [
+       -93.2353425,
+       44.9811877
+      ],
+      [
+       -93.2351278,
+       44.9814753
+      ],
+      [
+       -93.2356885,
+       44.9816876
+      ],
+      [
+       -93.2359031,
+       44.9814001
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 21.6,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-venue",
+    "name": "The Venue at Dinkytown",
+    "addresses": [
+     "1319 5th St SE (approx.)"
+    ],
+    "built_year": 2014,
+    "stories": 6,
+    "material": "glass",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2364638,
+       44.9816124
+      ],
+      [
+       -93.2353425,
+       44.9811877
+      ],
+      [
+       -93.2351278,
+       44.9814753
+      ],
+      [
+       -93.2362492,
+       44.9819
+      ],
+      [
+       -93.2364638,
+       44.9816124
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 21.6,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-marshall",
+    "name": "The Marshall",
+    "addresses": [
+     "515 14th Ave SE"
+    ],
+    "built_year": 2015,
+    "stories": 6,
+    "material": "glass",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2358818,
+       44.9820067
+      ],
+      [
+       -93.2349847,
+       44.981667
+      ],
+      [
+       -93.234472,
+       44.9823539
+      ],
+      [
+       -93.2353691,
+       44.9826937
+      ],
+      [
+       -93.2358818,
+       44.9820067
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-406-14th",
+    "name": "Vescio's building",
+    "addresses": [
+     "406 14th Ave SE"
+    ],
+    "built_year": 1918,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2354163,
+       44.9807034
+      ],
+      [
+       -93.2351472,
+       44.9806015
+      ],
+      [
+       -93.235016,
+       44.9807772
+      ],
+      [
+       -93.2352852,
+       44.9808791
+      ],
+      [
+       -93.2354163,
+       44.9807034
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": 2013,
+    "geometry_status": "placeholder",
+    "id": "b-414-14th",
+    "name": "Ten O'Clock Scholar building",
+    "addresses": [
+     "414 14th Ave SE"
+    ],
+    "built_year": 1905,
+    "stories": 2,
+    "material": "wood",
+    "confidence": "low",
+    "sources": "src-popspots"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2352732,
+       44.9808951
+      ],
+      [
+       -93.2350041,
+       44.9807932
+      ],
+      [
+       -93.2348849,
+       44.9809529
+      ],
+      [
+       -93.235154,
+       44.9810548
+      ],
+      [
+       -93.2352732,
+       44.9808951
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 10.8,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-1400-4th",
+    "name": "Corner commercial block (placeholder)",
+    "addresses": [
+     "1400 4th St SE"
+    ],
+    "built_year": 1908,
+    "stories": 3,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2351248,
+       44.980593
+      ],
+      [
+       -93.2346314,
+       44.9804061
+      ],
+      [
+       -93.2344645,
+       44.9806297
+      ],
+      [
+       -93.2349578,
+       44.9808166
+      ],
+      [
+       -93.2351248,
+       44.980593
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 3.6,
+    "demolished_year": 1962,
+    "geometry_status": "placeholder",
+    "id": "b-1414-4th",
+    "name": "Frame store (placeholder)",
+    "addresses": [
+     "1414 4th St SE"
+    ],
+    "built_year": 1888,
+    "stories": 1,
+    "material": "wood",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2345865,
+       44.9803891
+      ],
+      [
+       -93.234295,
+       44.9802787
+      ],
+      [
+       -93.2341638,
+       44.9804544
+      ],
+      [
+       -93.2344554,
+       44.9805648
+      ],
+      [
+       -93.2345865,
+       44.9803891
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 5,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-1414-4th-2",
+    "name": "Bank building (placeholder)",
+    "addresses": [
+     "1414 4th St SE"
+    ],
+    "built_year": 1963,
+    "stories": 1,
+    "material": "concrete",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2345865,
+       44.9803891
+      ],
+      [
+       -93.2342277,
+       44.9802532
+      ],
+      [
+       -93.2340369,
+       44.9805088
+      ],
+      [
+       -93.2343958,
+       44.9806447
+      ],
+      [
+       -93.2345865,
+       44.9803891
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 7.2,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-1401-4th",
+    "name": "Corner commercial block (placeholder)",
+    "addresses": [
+     "1401 4th St SE"
+    ],
+    "built_year": 1902,
+    "stories": 2,
+    "material": "brick",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2357621,
+       44.9802401
+      ],
+      [
+       -93.2353136,
+       44.9800702
+      ],
+      [
+       -93.2351109,
+       44.9803418
+      ],
+      [
+       -93.2355594,
+       44.9805117
+      ],
+      [
+       -93.2357621,
+       44.9802401
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 5,
+    "demolished_year": 2016,
+    "geometry_status": "placeholder",
+    "id": "b-1411-4th",
+    "name": "Storefronts (placeholder)",
+    "addresses": [
+     "1411 4th St SE"
+    ],
+    "built_year": 1930,
+    "stories": 1,
+    "material": "stucco",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2352554,
+       44.9801096
+      ],
+      [
+       -93.234762,
+       44.9799228
+      ],
+      [
+       -93.2345951,
+       44.9801464
+      ],
+      [
+       -93.2350885,
+       44.9803333
+      ],
+      [
+       -93.2352554,
+       44.9801096
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "height_m": 18,
+    "demolished_year": null,
+    "geometry_status": "placeholder",
+    "id": "b-1411-4th-2",
+    "name": "Student apartments (placeholder)",
+    "addresses": [
+     "1411 4th St SE"
+    ],
+    "built_year": 2018,
+    "stories": 5,
+    "material": "glass",
+    "confidence": "low",
+    "sources": "src-placeholder"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2353746,
+       44.9799499
+      ],
+      [
+       -93.234657,
+       44.9796781
+      ],
+      [
+       -93.2343708,
+       44.9800615
+      ],
+      [
+       -93.2350885,
+       44.9803333
+      ],
+      [
+       -93.2353746,
+       44.9799499
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

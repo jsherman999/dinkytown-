@@ -348,6 +348,14 @@ every historical fact still needs a human to verify against the scan.
 
 ## 10. Recommended first milestone (about 2–3 weeks of part-time work)
 
+**Status (2026-09-19):** the engineering half of this milestone is built and pushed: Vite +
+TypeScript + MapLibre app, temporal data model and validator, slider with saved-view snapping,
+3D extrusions, labels, click panel, URL state, tests, and a GitHub Pages workflow. Placeholder
+data covers the core blocks at 1912, 1950, 1984, and 2026. **1984 was added as an extra saved
+view** at the owner's request (it sits inside the 1964–2005 directory gap, so its occupants will
+need Minnesota Daily or microfilm research). The research half (georeferencing the 1912 and
+1950s Sanborn sheets) still needs a person with an HCL card and QGIS.
+
 1. Engineering: E1–E4 plus a minimal E5/E6, using placeholder data for 10 buildings
    at three keyframes (1912, 1950, 2026). Goal: a working slider over a 3D map with
    labels, on GitHub Pages.

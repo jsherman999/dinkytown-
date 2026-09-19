@@ -1,0 +1,1377 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-0-0",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2422798,
+       44.9813358
+      ],
+      [
+       -93.2412706,
+       44.9809535
+      ],
+      [
+       -93.2409248,
+       44.9814168
+      ],
+      [
+       -93.241934,
+       44.9817991
+      ],
+      [
+       -93.2422798,
+       44.9813358
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-0-1",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2417909,
+       44.9819908
+      ],
+      [
+       -93.2407817,
+       44.9816085
+      ],
+      [
+       -93.240269,
+       44.9822954
+      ],
+      [
+       -93.2412782,
+       44.9826777
+      ],
+      [
+       -93.2417909,
+       44.9819908
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-0-2",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2411351,
+       44.9828694
+      ],
+      [
+       -93.2401259,
+       44.9824872
+      ],
+      [
+       -93.2396131,
+       44.9831741
+      ],
+      [
+       -93.2406223,
+       44.9835563
+      ],
+      [
+       -93.2411351,
+       44.9828694
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-0-3",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2404792,
+       44.983748
+      ],
+      [
+       -93.23947,
+       44.9833658
+      ],
+      [
+       -93.2389573,
+       44.9840527
+      ],
+      [
+       -93.2399665,
+       44.984435
+      ],
+      [
+       -93.2404792,
+       44.983748
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-0-4",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2398234,
+       44.9846267
+      ],
+      [
+       -93.2388142,
+       44.9842444
+      ],
+      [
+       -93.2384088,
+       44.9847876
+      ],
+      [
+       -93.239418,
+       44.9851698
+      ],
+      [
+       -93.2398234,
+       44.9846267
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-1-0",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2410463,
+       44.9808686
+      ],
+      [
+       -93.239028,
+       44.9801041
+      ],
+      [
+       -93.2386822,
+       44.9805674
+      ],
+      [
+       -93.2407005,
+       44.9813319
+      ],
+      [
+       -93.2410463,
+       44.9808686
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-1-1",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2405574,
+       44.9815236
+      ],
+      [
+       -93.2385391,
+       44.9807591
+      ],
+      [
+       -93.2380263,
+       44.981446
+      ],
+      [
+       -93.2400447,
+       44.9822105
+      ],
+      [
+       -93.2405574,
+       44.9815236
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-1-2",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2399016,
+       44.9824022
+      ],
+      [
+       -93.2378832,
+       44.9816377
+      ],
+      [
+       -93.2373705,
+       44.9823247
+      ],
+      [
+       -93.2393889,
+       44.9830891
+      ],
+      [
+       -93.2399016,
+       44.9824022
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-1-3",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2392458,
+       44.9832808
+      ],
+      [
+       -93.2372274,
+       44.9825164
+      ],
+      [
+       -93.2367146,
+       44.9832033
+      ],
+      [
+       -93.238733,
+       44.9839678
+      ],
+      [
+       -93.2392458,
+       44.9832808
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-1-4",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2385899,
+       44.9841595
+      ],
+      [
+       -93.2365716,
+       44.983395
+      ],
+      [
+       -93.2361661,
+       44.9839382
+      ],
+      [
+       -93.2381845,
+       44.9847026
+      ],
+      [
+       -93.2385899,
+       44.9841595
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-2-0",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2388037,
+       44.9800192
+      ],
+      [
+       -93.2367853,
+       44.9792547
+      ],
+      [
+       -93.2364395,
+       44.979718
+      ],
+      [
+       -93.2384579,
+       44.9804825
+      ],
+      [
+       -93.2388037,
+       44.9800192
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-2-1",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2383148,
+       44.9806742
+      ],
+      [
+       -93.2362964,
+       44.9799097
+      ],
+      [
+       -93.2357837,
+       44.9805966
+      ],
+      [
+       -93.2378021,
+       44.9813611
+      ],
+      [
+       -93.2383148,
+       44.9806742
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-2-2",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.237659,
+       44.9815528
+      ],
+      [
+       -93.2356406,
+       44.9807883
+      ],
+      [
+       -93.2351278,
+       44.9814753
+      ],
+      [
+       -93.2371462,
+       44.9822397
+      ],
+      [
+       -93.237659,
+       44.9815528
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-2-3",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2370031,
+       44.9824314
+      ],
+      [
+       -93.2349847,
+       44.981667
+      ],
+      [
+       -93.234472,
+       44.9823539
+      ],
+      [
+       -93.2364904,
+       44.9831184
+      ],
+      [
+       -93.2370031,
+       44.9824314
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-2-4",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2363473,
+       44.9833101
+      ],
+      [
+       -93.2343289,
+       44.9825456
+      ],
+      [
+       -93.2339235,
+       44.9830887
+      ],
+      [
+       -93.2359419,
+       44.9838532
+      ],
+      [
+       -93.2363473,
+       44.9833101
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-3-0",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2365611,
+       44.9791698
+      ],
+      [
+       -93.2345427,
+       44.9784053
+      ],
+      [
+       -93.2341969,
+       44.9788686
+      ],
+      [
+       -93.2362153,
+       44.979633
+      ],
+      [
+       -93.2365611,
+       44.9791698
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-3-1",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2360722,
+       44.9798247
+      ],
+      [
+       -93.2340538,
+       44.9790603
+      ],
+      [
+       -93.233541,
+       44.9797472
+      ],
+      [
+       -93.2355594,
+       44.9805117
+      ],
+      [
+       -93.2360722,
+       44.9798247
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-3-2",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2354163,
+       44.9807034
+      ],
+      [
+       -93.2333979,
+       44.9799389
+      ],
+      [
+       -93.2328852,
+       44.9806258
+      ],
+      [
+       -93.2349036,
+       44.9813903
+      ],
+      [
+       -93.2354163,
+       44.9807034
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-3-3",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2347605,
+       44.981582
+      ],
+      [
+       -93.2327421,
+       44.9808175
+      ],
+      [
+       -93.2322294,
+       44.9815045
+      ],
+      [
+       -93.2342477,
+       44.9822689
+      ],
+      [
+       -93.2347605,
+       44.981582
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-3-4",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2341046,
+       44.9824606
+      ],
+      [
+       -93.2320863,
+       44.9816962
+      ],
+      [
+       -93.2316808,
+       44.9822393
+      ],
+      [
+       -93.2336992,
+       44.9830038
+      ],
+      [
+       -93.2341046,
+       44.9824606
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-4-0",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2343184,
+       44.9783203
+      ],
+      [
+       -93.2333092,
+       44.9779381
+      ],
+      [
+       -93.2329634,
+       44.9784014
+      ],
+      [
+       -93.2339726,
+       44.9787836
+      ],
+      [
+       -93.2343184,
+       44.9783203
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-4-1",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2338295,
+       44.9789753
+      ],
+      [
+       -93.2328203,
+       44.9785931
+      ],
+      [
+       -93.2323076,
+       44.97928
+      ],
+      [
+       -93.2333168,
+       44.9796623
+      ],
+      [
+       -93.2338295,
+       44.9789753
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-4-2",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2331737,
+       44.979854
+      ],
+      [
+       -93.2321645,
+       44.9794717
+      ],
+      [
+       -93.2316517,
+       44.9801587
+      ],
+      [
+       -93.2326609,
+       44.9805409
+      ],
+      [
+       -93.2331737,
+       44.979854
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-4-3",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.2325178,
+       44.9807326
+      ],
+      [
+       -93.2315087,
+       44.9803504
+      ],
+      [
+       -93.2309959,
+       44.9810373
+      ],
+      [
+       -93.2320051,
+       44.9814195
+      ],
+      [
+       -93.2325178,
+       44.9807326
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "block-4-4",
+    "kind": "block",
+    "start_year": 1800,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -93.231862,
+       44.9816112
+      ],
+      [
+       -93.2308528,
+       44.981229
+      ],
+      [
+       -93.2304474,
+       44.9817722
+      ],
+      [
+       -93.2314566,
+       44.9821544
+      ],
+      [
+       -93.231862,
+       44.9816112
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "st-University Ave SE-dirt",
+    "kind": "street",
+    "name": "University Ave SE",
+    "surface": "dirt",
+    "width_m": 24,
+    "start_year": 1800,
+    "end_year": 1905
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2418624,
+      44.9818949
+     ],
+     [
+      -93.2328919,
+      44.9784972
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "st-University Ave SE-paved",
+    "kind": "street",
+    "name": "University Ave SE",
+    "surface": "paved",
+    "width_m": 24,
+    "start_year": 1905,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2418624,
+      44.9818949
+     ],
+     [
+      -93.2328919,
+      44.9784972
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "st-4th St SE-dirt",
+    "kind": "street",
+    "name": "4th St SE",
+    "surface": "dirt",
+    "width_m": 24,
+    "start_year": 1800,
+    "end_year": 1905
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2412066,
+      44.9827735
+     ],
+     [
+      -93.232236,
+      44.9793759
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "st-4th St SE-paved",
+    "kind": "street",
+    "name": "4th St SE",
+    "surface": "paved",
+    "width_m": 24,
+    "start_year": 1905,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2412066,
+      44.9827735
+     ],
+     [
+      -93.232236,
+      44.9793759
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "st-5th St SE-dirt",
+    "kind": "street",
+    "name": "5th St SE",
+    "surface": "dirt",
+    "width_m": 24,
+    "start_year": 1800,
+    "end_year": 1905
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2405508,
+      44.9836522
+     ],
+     [
+      -93.2315802,
+      44.9802545
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "st-5th St SE-paved",
+    "kind": "street",
+    "name": "5th St SE",
+    "surface": "paved",
+    "width_m": 24,
+    "start_year": 1905,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2405508,
+      44.9836522
+     ],
+     [
+      -93.2315802,
+      44.9802545
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "st-6th St SE-dirt",
+    "kind": "street",
+    "name": "6th St SE",
+    "surface": "dirt",
+    "width_m": 24,
+    "start_year": 1800,
+    "end_year": 1905
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2398949,
+      44.9845308
+     ],
+     [
+      -93.2309244,
+      44.9811331
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "st-6th St SE-paved",
+    "kind": "street",
+    "name": "6th St SE",
+    "surface": "paved",
+    "width_m": 24,
+    "start_year": 1905,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2398949,
+      44.9845308
+     ],
+     [
+      -93.2309244,
+      44.9811331
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "av-12th Ave SE-dirt",
+    "kind": "street",
+    "name": "12th Ave SE",
+    "surface": "dirt",
+    "width_m": 20,
+    "start_year": 1800,
+    "end_year": 1910
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2411585,
+      44.9809111
+     ],
+     [
+      -93.2382966,
+      44.9847451
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "av-12th Ave SE-paved",
+    "kind": "street",
+    "name": "12th Ave SE",
+    "surface": "paved",
+    "width_m": 20,
+    "start_year": 1910,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2411585,
+      44.9809111
+     ],
+     [
+      -93.2382966,
+      44.9847451
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "av-13th Ave SE-dirt",
+    "kind": "street",
+    "name": "13th Ave SE",
+    "surface": "dirt",
+    "width_m": 20,
+    "start_year": 1800,
+    "end_year": 1910
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2389158,
+      44.9800616
+     ],
+     [
+      -93.236054,
+      44.9838957
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "av-13th Ave SE-paved",
+    "kind": "street",
+    "name": "13th Ave SE",
+    "surface": "paved",
+    "width_m": 20,
+    "start_year": 1910,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2389158,
+      44.9800616
+     ],
+     [
+      -93.236054,
+      44.9838957
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "av-14th Ave SE-dirt",
+    "kind": "street",
+    "name": "14th Ave SE",
+    "surface": "dirt",
+    "width_m": 20,
+    "start_year": 1800,
+    "end_year": 1910
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2366732,
+      44.9792122
+     ],
+     [
+      -93.2338113,
+      44.9830463
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "av-14th Ave SE-paved",
+    "kind": "street",
+    "name": "14th Ave SE",
+    "surface": "paved",
+    "width_m": 20,
+    "start_year": 1910,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2366732,
+      44.9792122
+     ],
+     [
+      -93.2338113,
+      44.9830463
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "av-15th Ave SE-dirt",
+    "kind": "street",
+    "name": "15th Ave SE",
+    "surface": "dirt",
+    "width_m": 20,
+    "start_year": 1800,
+    "end_year": 1910
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2344305,
+      44.9783628
+     ],
+     [
+      -93.2315687,
+      44.9821969
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "av-15th Ave SE-paved",
+    "kind": "street",
+    "name": "15th Ave SE",
+    "surface": "paved",
+    "width_m": 20,
+    "start_year": 1910,
+    "end_year": null
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2344305,
+      44.9783628
+     ],
+     [
+      -93.2315687,
+      44.9821969
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "streetcar-4th",
+    "kind": "streetcar",
+    "name": "4th St streetcar",
+    "start_year": 1875,
+    "end_year": 1954,
+    "confidence": "medium"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.2412066,
+      44.9827735
+     ],
+     [
+      -93.232236,
+      44.9793759
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "rail-gn",
+    "kind": "rail",
+    "name": "Railroad corridor",
+    "start_year": 1862,
+    "end_year": 2012,
+    "confidence": "low"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.239567,
+      44.9849701
+     ],
+     [
+      -93.2306739,
+      44.9814686
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "greenway",
+    "kind": "greenway",
+    "name": "Dinkytown Greenway",
+    "start_year": 2015,
+    "end_year": null,
+    "confidence": "low"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -93.239567,
+      44.9849701
+     ],
+     [
+      -93.2306739,
+      44.9814686
+     ]
+    ]
+   }
+  }
+ ]
+}
