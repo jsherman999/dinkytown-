@@ -1,0 +1,33 @@
+{
+  "buildings": [
+    {
+      "id": "b-1301-4th-st-se",
+      "name": "Gray's Campus Drug building",
+      "addresses": ["327 14th Ave SE"],
+      "built_year": 1904, "built_year_range": null,
+      "demolished_year": null,
+      "stories": 2, "height_m": 8, "roof": "flat", "material": "brick",
+      "style_tags": ["commercial-vernacular"],
+      "confidence": "medium",
+      "source_ids": ["src-designation-study-2015", "src-phd-tour"]
+    }
+  ],
+  "tenants": [
+    {
+      "building_id": "b-1301-4th-st-se", "unit": "storefront",
+      "name": "Gray's Campus Drug", "category": "pharmacy",
+      "start_year": 1904, "end_year": null, "start_precision": "circa",
+      "confidence": "medium", "source_ids": ["src-phd-tour"]
+    }
+  ],
+  "photos": [
+    {
+      "id": "p-0001", "building_id": "b-1301-4th-st-se",
+      "year": 1959, "year_precision": "exact",
+      "url": "https://example.org/photo", "thumbnail": null,
+      "credit": "Hennepin County Library", "rights": "link-only",
+      "source_ids": ["src-hcl-photo-xxxx"]
+    }
+  ],
+  "keyframes": [1885, 1890, 1895, 1900, 1905, 1910, 1915, 1920, 1925, 1930, 1935, 1940, 1945, 1950, 1955, 1960, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015, 2020, 2025]
+}
