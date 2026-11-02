@@ -4,6 +4,7 @@ b-327-14th,corner storefront,Loring Pasta Bar,restaurant,2001,2018,circa,medium,
 b-327-14th,corner storefront,Gray's,restaurant,2019,,circa,medium,src-wiki
 b-327-14th,upstairs office 1,"M. R. Melvin, dentist",dentist,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-327-14th,upstairs office 2,"E. A. Wright, dentist",dentist,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
+b-327-14th,storefront 2,Nina Lee,shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
 b-327-14th,upstairs office 3,"A. C. Stevens, printer",printer,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-321-14th,storefront,Dayton's University Store,department store,1925,1955,circa,low,src-alumni
 b-321-14th,storefront,Retail (placeholder),retail,1956,2015,circa,placeholder,src-placeholder
@@ -52,7 +53,7 @@ b-house-of-hanson,whole,House of Hanson,grocery,1932,2013,circa,medium,src-alumn
 b-venue,whole,The Venue at Dinkytown,apartments,2014,,circa,low,src-placeholder
 b-marshall,whole,The Marshall,apartments,2015,,circa,medium,src-hub-marshall
 b-406-14th,storefront,Shop (placeholder),retail,1918,1955,circa,placeholder,src-placeholder
-b-406-14th,storefront,Vescio's Italian Restaurant,restaurant,1956,2015,circa,low,src-hub-vescios
+b-406-14th,storefront,Vescio's Italian Restaurant,restaurant,1956,2015,circa,medium,src-hub-vescios;src-hcl-Yearbooks-104473;src-hcl-p17208coll7-25363
 b-406-14th,storefront,Restaurant (placeholder),restaurant,2016,2020,circa,placeholder,src-placeholder
 b-406-14th,storefront,Bonchon Dinky,restaurant,2020,,circa,high,src-hcl-CPED-216168;src-hcl-CPED-219960
 b-414-14th,storefront,Storefront (placeholder),retail,1905,1913,circa,placeholder,src-placeholder
@@ -69,6 +70,8 @@ b-1414-4th-2,whole,Bank branch (placeholder),bank,1963,2010,circa,placeholder,sr
 b-1414-4th-2,whole,Pharmacy (placeholder),pharmacy,2011,,circa,placeholder,src-placeholder
 b-1401-4th,corner,Drugstore (placeholder),pharmacy,1902,1950,circa,placeholder,src-placeholder
 b-1401-4th,corner,Bar (placeholder),bar,1950,,circa,placeholder,src-placeholder
-b-1411-4th,storefront,Café (placeholder),restaurant,1930,2015,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Café (placeholder),restaurant,1930,1998,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Campus Card,card shop,1998,1999,exact,high,src-hcl-CPED-1115;src-hcl-CPED-31636
+b-1411-4th,storefront,Café (placeholder),restaurant,1999,2015,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Verizon Wireless,phone store,2015,2016,circa,low,src-hub-verizon
 b-1411-4th-2,whole,Student apartments (placeholder),apartments,2018,,circa,placeholder,src-placeholder
