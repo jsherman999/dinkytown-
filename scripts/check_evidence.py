@@ -68,7 +68,10 @@ def main():
         rf = rf if rf.is_absolute() else RAW_ROOT / rf
         if not rf.exists():
             probs.append(f"{tag}: raw_file not found: {rf}"); continue
-        raw = norm(re.sub(r"<[^>]+>", " ", rf.read_text(errors="ignore")))
+        text = rf.read_text(errors="ignore")
+        if rf.suffix.lower() in (".html", ".htm", ".xml"):  # OCR .txt may contain stray '<'
+            text = re.sub(r"<[^>]+>", " ", text)
+        raw = norm(text)
         q = norm(e["quote"])
         if len(q) < 15:
             probs.append(f"{tag}: quote too short to verify")
