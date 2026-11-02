@@ -60,6 +60,22 @@ Every new or changed named tenant has a verbatim quote in `data/evidence.csv` th
 
 ---
 
+## 2c. Status update: run 2 (2026-11-01)
+
+- Fixes: Campus Card start precision `circa`; Davison's evidence now cites the original OCR files.
+- New sources: saved Alumni / PopSpots / PHD pages, Wikipedia API extracts, HCL name searches, and the
+  Minnesota Daily full text (UMN Digital Conservancy DSpace API).
+- Added or changed: The Loring 2019-2022 (replaces unsourced "Gray's 2019-"), Gray's Campus Drug closed 1998,
+  Dayton's 321 to medium, Book House 1316 to circa, Varsity Art Store (1411 4th 1958-66; 425 14th 1982),
+  John's Barber Shop 425 (1946), Hunky Dory 413 (1937-50), University Drug Co. 1400 4th (1934-35),
+  Heart of the Earth Survival 1400 4th (1976), The Occidental 1414 4th (1902).
+- Removed: McDonald's from 1400 4th St SE (sources place it at 407 15th Ave SE).
+- Needs a human decision (see job notes/unresolved.md): Ten O'Clock Scholar (418, not 414), Podium (417 in 1963),
+  McCosh's (1404, not 1315), Gray's (329), 1414 4th building type (apartments, not a bank), b-425-14th razed 2013?
+- The PopSpots 1963 Perine-directory block maps (images) are transcribed in the job's notes/popspots-1963-maps.md.
+  They need a human check because the evidence checker can't verify images.
+- Checker requests (job notes/checker-requests.md): `&apos;` entity, spelled-out "Fourth".
+
 ## 3. Reachable sources and what they give (post-2005 / 1964–2005 gap focus)
 
 | source_id | what it provides | notes |
