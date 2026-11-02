@@ -1,11 +1,11 @@
 id,type,citation,url,sheet_or_page,retrieved_at
 src-placeholder,placeholder,"Milestone-1 placeholder. Not researched. Replace before publishing as fact.",,,2026-09-19
 src-designation-study,study,"City of Minneapolis, Dinkytown Commercial Historic District Designation Study (2015)",https://www2.minneapolismn.gov/media/content-assets/www2-documents/government/Dinkytown-Historic-Designation-Study-(pdf).pdf,,2026-09-19
-src-phd-tour,web,"Preserving Historic Dinkytown, Self-Guided Tour",https://www.preservehistoricdinkytown.org/self-guided-tour,,2026-09-19
-src-wiki,web,"Wikipedia, Dinkytown",https://en.wikipedia.org/wiki/Dinkytown,,2026-09-19
-src-wiki-als,web,"Wikipedia, Al's Breakfast",https://en.wikipedia.org/wiki/Al%27s_Breakfast,,2026-09-19
-src-alumni,article,"Minnesota Alumni Magazine, Dinkytown Past, Present, Future",https://www.minnesotaalumni.org/stories/dinkytown,,2026-09-19
-src-popspots,web,"PopSpots, Dinkytown and the Ten O'Clock Scholar in the 60's",https://www.popspotsnyc.com/dinkytown/,,2026-09-19
+src-phd-tour,web,"Preserving Historic Dinkytown, Self-Guided Tour",https://www.preservehistoricdinkytown.org/self-guided-tour,,2026-11-01
+src-wiki,web,"Wikipedia, Dinkytown",https://en.wikipedia.org/wiki/Dinkytown,,2026-11-01
+src-wiki-als,web,"Wikipedia, Al's Breakfast",https://en.wikipedia.org/wiki/Al%27s_Breakfast,,2026-11-01
+src-alumni,article,"Minnesota Alumni Magazine, Dinkytown Past, Present, Future",https://www.minnesotaalumni.org/stories/dinkytown,,2026-11-01
+src-popspots,web,"PopSpots, Dinkytown and the Ten O'Clock Scholar in the 60's",https://www.popspotsnyc.com/dinkytown/,,2026-11-01
 src-hub-refinery-salon,web,"Dinkytown Hub business listing, ""The Refinery Salon"" (Wayback capture 20151210)",http://web.archive.org/web/20151210121617/http://dinkytownhub.com:80/item/the-refinery-salon/,item page,2026-11-01
 src-hub-chatime,web,"Dinkytown Hub business listing, ""Chatime"" (Wayback capture 20171030)",http://web.archive.org/web/20171030125921/http://dinkytownhub.com:80/item/chatime/,item page,2026-11-01
 src-hub-fast-eddies,web,"Dinkytown Hub business listing, ""Fast Eddie's Shoe Repair"" (Wayback capture 20150524)",http://web.archive.org/web/20150524044139/http://dinkytownhub.com:80/item/fast-eddies-shoe-repair/,item page,2026-11-01
@@ -40,3 +40,6 @@ src-hcl-CPED-31636,photo,"Hennepin County Library Digital Collections, City of M
 src-hcl-p17208coll7-25363,newspaper,"Hennepin County Library Digital Collections, Minneapolis Community Newspapers and Publications: Page 8 (Kerry & Margo Ashmore, publisher), 1997-06-09",https://digitalcollections.hclib.org/digital/collection/p17208coll7/id/25363,Page 8,2026-11-01
 src-hcl-CPED-38421,photo,"Hennepin County Library Digital Collections, City of Minneapolis Collection: ""Dinkytown Businesses"" (photo, 1974)",https://digitalcollections.hclib.org/digital/collection/CPED/id/38421,item record,2026-11-01
 src-hcl-CPED-37748,photo,"Hennepin County Library Digital Collections, City of Minneapolis Collection: ""Campus Cobbler and Other Dinkytown Businesses"" (photo, 1974)",https://digitalcollections.hclib.org/digital/collection/CPED/id/37748,item record,2026-11-01
+src-hcl-CPED-219112,archive,"Hennepin County Library Digital Collections, City of Minneapolis Collection: 2019-0712-Council-Proceedings 5",https://digitalcollections.hclib.org/digital/collection/CPED/id/219112,2019-0712-Council-Proceedings 5,2026-11-01
+src-hcl-CPED-216808,archive,"Hennepin County Library Digital Collections, City of Minneapolis Collection: 2021-0910-Council-Proceedings 5",https://digitalcollections.hclib.org/digital/collection/CPED/id/216808,2021-0910-Council-Proceedings 5,2026-11-01
+src-hcl-CPED-220234,archive,"Hennepin County Library Digital Collections, City of Minneapolis Collection: 2022-0210-Council-Proceedings 5",https://digitalcollections.hclib.org/digital/collection/CPED/id/220234,2022-0210-Council-Proceedings 5,2026-11-01

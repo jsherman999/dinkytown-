@@ -1,12 +1,13 @@
 building_id,unit,name,category,start_year,end_year,start_precision,confidence,source_ids
-b-327-14th,corner storefront,Gray's Campus Drug,pharmacy,1904,1990,circa,low,src-phd-tour;src-wiki
+b-327-14th,corner storefront,Gray's Campus Drug,pharmacy,1904,1998,circa,low,src-phd-tour;src-wiki;src-alumni
 b-327-14th,corner storefront,Loring Pasta Bar,restaurant,2001,2018,circa,medium,src-wiki;src-hub-loring;src-hcl-CPED-206717
-b-327-14th,corner storefront,Gray's,restaurant,2019,,circa,medium,src-wiki
+b-327-14th,corner storefront,The Loring,restaurant,2019,2023,circa,high,src-hcl-CPED-219112;src-hcl-CPED-216808;src-hcl-CPED-220234
+b-327-14th,corner storefront,Restaurant (placeholder),restaurant,2023,,circa,placeholder,src-placeholder
 b-327-14th,upstairs office 1,"M. R. Melvin, dentist",dentist,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-327-14th,upstairs office 2,"E. A. Wright, dentist",dentist,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-327-14th,storefront 2,Nina Lee,shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
 b-327-14th,upstairs office 3,"A. C. Stevens, printer",printer,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
-b-321-14th,storefront,Dayton's University Store,department store,1925,1955,circa,low,src-alumni
+b-321-14th,storefront,Dayton's University Store,department store,1925,1955,circa,medium,src-alumni
 b-321-14th,storefront,Retail (placeholder),retail,1956,1974,circa,placeholder,src-placeholder
 b-321-14th,storefront,Campus Cobbler,shoe repair,1974,1975,circa,high,src-hcl-CPED-38421;src-hcl-CPED-37748
 b-321-14th,storefront,Retail (placeholder),retail,1975,2015,circa,placeholder,src-placeholder
@@ -38,7 +39,7 @@ b-1308-4th,whole,Varsity Theater,venue,2021,,circa,medium,src-wiki;src-hcl-CPED-
 b-1316-4th,storefront,Store (placeholder),retail,1920,1978,circa,placeholder,src-placeholder
 b-1316-4th,storefront,The Tuffet,second-hand goods,1978,1980,circa,high,src-hcl-CPED-241204
 b-1316-4th,storefront,Store (placeholder),retail,1980,2012,circa,placeholder,src-placeholder
-b-1316-4th,storefront,The Book House,bookstore,2013,,exact,medium,src-alumni
+b-1316-4th,storefront,The Book House,bookstore,2013,,circa,medium,src-phd-tour;src-alumni
 b-1316-4th,storefront 2,Fast Eddie's Shoe Repair,shoe repair,2015,2016,circa,low,src-hub-fast-eddies
 b-1316-4th,storefront 3,Varsity Bike & Transit,bike shop,2015,2016,circa,low,src-hub-varsity-bike
 b-413-14th,whole,Storage (placeholder),other,1930,1949,circa,placeholder,src-placeholder
@@ -66,7 +67,7 @@ b-414-14th,storefront,Shop (placeholder),retail,1964,1965,circa,placeholder,src-
 b-414-14th,storefront,Bower and Haack Microscopes,optical shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
 b-414-14th,storefront,Shop (placeholder),retail,1966,2012,circa,placeholder,src-placeholder
 b-1400-4th,corner,Bank (placeholder),bank,1908,1960,circa,placeholder,src-placeholder
-b-1400-4th,corner,McDonald's,restaurant,1963,2020,circa,low,src-alumni
+b-1400-4th,corner,Storefront (placeholder),retail,1960,,circa,placeholder,src-placeholder
 b-1414-4th,whole,Grocer (placeholder),grocery,1888,1962,circa,placeholder,src-placeholder
 b-1414-4th-2,whole,Bank branch (placeholder),bank,1963,2010,circa,placeholder,src-placeholder
 b-1414-4th-2,whole,Pharmacy (placeholder),pharmacy,2011,,circa,placeholder,src-placeholder
