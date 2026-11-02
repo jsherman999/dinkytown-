@@ -48,7 +48,10 @@ b-411-14th,storefront,Wm. Simms hardware,hardware,1913,1915,circa,high,src-davis
 b-411-14th,storefront,Storefront (placeholder),retail,1915,1963,circa,placeholder,src-placeholder
 b-411-14th,storefront,Simms Hardware,hardware,1963,,circa,low,src-popspots;src-hcl-p17208coll7-55759
 b-411-14th,storefront 2,Espresso Royale,coffeehouse,1987,2004,circa,medium,src-hcl-p17208coll7-61411;src-hcl-p17208coll7-167823
-b-425-14th,storefront,Shop (placeholder),retail,1925,1965,circa,placeholder,src-placeholder
+b-425-14th,storefront,Shop (placeholder),retail,1925,1946,circa,placeholder,src-placeholder
+b-425-14th,storefront,John's Barber Shop,barber,1946,1947,circa,high,src-hcl-HCSchoolPubs-36526
+b-425-14th,storefront,Shop (placeholder),retail,1947,1965,circa,placeholder,src-placeholder
+b-425-14th,storefront 2,Varsity Art Store,art and framing shop,1982,1983,circa,medium,src-hcl-p17208coll7-87471;src-hcl-p17208coll7-88111
 b-425-14th,storefront,The Podium,music shop,1966,2022,circa,low,src-placeholder
 b-425-14th,upstairs,The Book House,bookstore,1976,2012,circa,low,src-alumni
 b-425-14th,storefront,Music shop (placeholder),music shop,2023,,circa,placeholder,src-placeholder
@@ -73,7 +76,9 @@ b-1414-4th-2,whole,Bank branch (placeholder),bank,1963,2010,circa,placeholder,sr
 b-1414-4th-2,whole,Pharmacy (placeholder),pharmacy,2011,,circa,placeholder,src-placeholder
 b-1401-4th,corner,Drugstore (placeholder),pharmacy,1902,1950,circa,placeholder,src-placeholder
 b-1401-4th,corner,Bar (placeholder),bar,1950,,circa,placeholder,src-placeholder
-b-1411-4th,storefront,Café (placeholder),restaurant,1930,1998,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Café (placeholder),restaurant,1930,1958,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Varsity Art Store,art and framing shop,1958,1967,circa,high,src-hcl-Yearbooks-52506;src-hcl-HCSchoolPubs-37673;src-hcl-HCSchoolPubs-36585
+b-1411-4th,storefront,Café (placeholder),restaurant,1967,1998,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Campus Card,card shop,1998,1999,circa,high,src-hcl-CPED-1115;src-hcl-CPED-31636
 b-1411-4th,storefront,Café (placeholder),restaurant,1999,2015,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Verizon Wireless,phone store,2015,2016,circa,low,src-hub-verizon
