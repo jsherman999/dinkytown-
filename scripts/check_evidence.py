@@ -38,6 +38,11 @@ STREET = {"avenue": "ave", "av": "ave", "street": "st", "southeast": "se", "s.e.
 
 def addr_key(a: str):
     a = norm(re.sub(r"\(.*?\)", "", a)).replace(".", "").replace(",", "")
+    # Pre-1930s Minneapolis directories write streets as "1315 SE 4th" (= 1315 4th St SE) and
+    # avenues as "14th av SE". A bare "<num> SE <nth>" with no type is therefore a street.
+    m = re.fullmatch(r"(\d+)(?:-\d+)?\s+s\s?e\s+(\d+)(?:st|nd|rd|th)", a)
+    if m:
+        return (m.group(1), m.group(2), "st")
     toks = [STREET.get(t, t) for t in a.split()]
     toks = [t for t in toks if t not in ("se", "minneapolis", "mn")]
     m = re.match(r"(\d+)(?:-\d+)?\s+(\d+)(?:st|nd|rd|th)?\s+(ave|st)", " ".join(toks))
