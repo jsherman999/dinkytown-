@@ -20,7 +20,7 @@ Rules enforced:
   - 'exact' start_precision requires the start_year digits to appear in the quote.
 Exit 0 = clean, 1 = problems (printed).
 """
-import csv, json, os, re, subprocess, sys
+import csv, html, json, os, re, subprocess, sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -28,16 +28,20 @@ RAW_ROOT = Path(os.environ.get("DINKY_RAW_ROOT", Path.home() / "data/jobs/dinkyt
 
 
 def norm(s: str) -> str:
-    s = s.lower().replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
+    s = html.unescape(s).lower().replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
     s = s.replace("–", "-").replace("—", "-").replace("&amp;", "&")
     return re.sub(r"\s+", " ", s).strip()
 
 
+ORDINALS = {w: f"{i}{'th' if 10 <= i % 100 <= 20 else {1: 'st', 2: 'nd', 3: 'rd'}.get(i % 10, 'th')}" for i, w in enumerate(
+    "first second third fourth fifth sixth seventh eighth ninth tenth eleventh twelfth thirteenth "
+    "fourteenth fifteenth sixteenth seventeenth eighteenth nineteenth twentieth".split(), 1)}
 STREET = {"avenue": "ave", "av": "ave", "street": "st", "southeast": "se", "s.e.": "se", "s.e": "se"}
 
 
 def addr_key(a: str):
     a = norm(re.sub(r"\(.*?\)", "", a)).replace(".", "").replace(",", "")
+    a = " ".join(ORDINALS.get(t, t) for t in a.split())
     # Pre-1930s Minneapolis directories write streets as "1315 SE 4th" (= 1315 4th St SE) and
     # avenues as "14th av SE". A bare "<num> SE <nth>" with no type is therefore a street.
     m = re.fullmatch(r"(\d+)(?:-\d+)?\s+s\s?e\s+(\d+)(?:st|nd|rd|th)", a)
@@ -47,6 +51,14 @@ def addr_key(a: str):
     toks = [t for t in toks if t not in ("se", "minneapolis", "mn")]
     m = re.match(r"(\d+)(?:-\d+)?\s+(\d+)(?:st|nd|rd|th)?\s+(ave|st)", " ".join(toks))
     return (m.group(1), m.group(2), m.group(3)) if m else None
+
+
+# Reviewed name variants accepted as lineage anchors: (building_id, variant as written) -> tenant name.
+# Only a human reviewer adds entries here.
+ANCHOR_ALIASES = {
+    ("b-327-14th", "gray's drug"): "Gray's Campus Drug",
+    ("b-327-14th", "gray's drugs"): "Gray's Campus Drug",
+}
 
 
 def main():
@@ -86,7 +98,8 @@ def main():
         elif e["match_basis"] == "lineage":
             others = {norm(t["name"]) for t in tenants if t["building_id"] == e["building_id"] and t["name"] != e["name"]}
             anchor = norm(e["address_in_quote"])
-            if anchor not in others or anchor not in q:
+            target = norm(ANCHOR_ALIASES.get((e["building_id"], anchor), e["address_in_quote"]))
+            if target not in others or anchor not in q:
                 probs.append(f"{tag}: lineage anchor '{e['address_in_quote']}' must be an existing tenant of this building and appear in quote")
         else:
             probs.append(f"{tag}: match_basis must be 'address' or 'lineage'")
