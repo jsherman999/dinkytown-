@@ -36,7 +36,7 @@ Every claim below is grounded in (a) live-fetched public web sources, or (b) ver
 ### Reverted (fabricated / inexact — NOT reliable, kept as placeholders)
 | building_id | why reverted |
 |---|---|
-| `b-413-14th` "Bill's Place" | Invented a prior tenant name + 1930–1949 dates with **no source**. Redundant anyway — the building already had a well-sourced `Al's Breakfast` row (start 1950, **exact**, high, `src-wiki-als`). Reverted to placeholder. |
+| `b-413-14th` "Bill's Place" | **Correction (2026-11-01, research job run 3):** the *name* does have a source. The Minnesota Alumni article says Bergstrom "bought a Dinkytown hole-in-the-wall called Bill's Place in 1950". Only the **1930–1949 dates** were invented. It is unresolved against the Hunky Dory sources (Wikipedia; 2003 Southeast Angle). Both may be right: Hunky Dory from 1937, renamed Bill's Place by 1950. The data now has Hunky Dory 1937–1950 (low) and no Bill's Place row. The invented 1930–1949 row was reverted to a placeholder. Al's Breakfast (1950, exact, high, `src-wiki-als`) was unaffected. |
 | `b-1315-4th-2` "Campus Camera" | PopSpots places Campus Camera at **1327–1329** 4th St, which is **not in our building set**. Must not be mapped to `b-1315-4th-2` (which is 1315). Reverted to placeholder. |
 | `b-1316-4th` "Lou's Diner" | PopSpots shows Lou's at **1311** 4th St, but building `b-1316-4th` is **1316**. Address mismatch → not an exact match. Reverted to placeholder. |
 
@@ -75,6 +75,27 @@ Every new or changed named tenant has a verbatim quote in `data/evidence.csv` th
 - The PopSpots 1963 Perine-directory block maps (images) are transcribed in the job's notes/popspots-1963-maps.md.
   They need a human check because the evidence checker can't verify images.
 - Checker requests (job notes/checker-requests.md): `&apos;` entity, spelled-out "Fourth".
+
+## 2d. Status update: run 3 (2026-11-01). Final for this job
+
+- **Counts:** 178 tenant rows: high 91 / medium 17 / low 14 / placeholder 56. Baseline was 44 rows: 1 / 10 / 12 / 21.
+  170 evidence rows and 123 sources. All three checks pass.
+- **New source:** Minnesota Daily full text (UMN Digital Conservancy) for all 15 street addresses (284 issues, 1902-2009).
+  It includes the Campus/Survival Guides of 1980-85 (merchant directories) and a 1997 Dinkytown Business Association directory.
+  This was the pre-1964 directory pass that archive.org could not supply (it has only Davison's 1913/1914). Mostly point
+  sightings (1-3 year spans); the gaps between them stay as placeholders.
+- **Checker:** the reviewer's change (spelled-out ordinals; Gray's Drug(s) alias) let Eagle Garage (1414, 1917),
+  University Drug Store (1401, 1919; the quote has no "SE") and Dinky Town Dime (327, lineage) in. That change is in the working
+  tree of `scripts/check_evidence.py` but **not committed by the research job**. Commit it, or the evidence check fails on a clean checkout.
+  Still requested (job notes/checker-requests.md): OCR-glued addresses such as "32114th Ave. SE" (Campus Cobbler,
+  Lindblom's, Simms 1980s and others) and `&apos;`.
+- **Fixed a misassignment:** College Inn Hotel was moved from 1315 to 1316 4th St. Two ads say 1316; a near-identical ad a week later says 1315.
+- **Vescio's** start precision is now `exact` (1995 ad: "Serving the finest Italian specialties since 1956").
+- **Human decisions** (job notes/unresolved.md): Simms moved to 417 by 1997, so the open-ended row at 411 needs an end date.
+  Also: Dayton's vs Al Johnson's at 321 (1952-55); Gray's at 329; Ten O'Clock Scholar at 418; Podium at 417 in 1963 (but 425 in 1997);
+  McCosh's at 1404; 1414 4th is an apartment building, not a bank; Hunky Dory vs Bill's Place.
+- **Still never filled:** 1401 and 1414 4th St SE after 1920; 1411-4th-2 (2018-); Bar/Pharmacy/Bank placeholders on the 4th St corners.
+- **Photos:** 21 HCL candidates in the job's notes/photo-candidates.csv (attribution required; none added to photos.csv).
 
 ## 3. Reachable sources and what they give (post-2005 / 1964–2005 gap focus)
 
