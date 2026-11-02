@@ -16,10 +16,17 @@ b-321-14th,storefront,Campus Cobbler,shoe repair,1974,1975,circa,high,src-hcl-CP
 b-321-14th,storefront,Retail (placeholder),retail,1975,2015,circa,placeholder,src-placeholder
 b-321-14th,storefront,The Refinery Salon,salon,2015,2016,circa,low,src-hub-refinery-salon
 b-321-14th,storefront,Retail (placeholder),retail,2016,,circa,placeholder,src-placeholder
-b-313-14th,storefront,Shop (placeholder),retail,1910,1973,circa,placeholder,src-placeholder
+b-313-14th,storefront,Scribner's (laundry agency),laundry,1910,1911,circa,high,src-umn-mndaily-1910-10-25;src-umn-mndaily-1910-11-22
+b-313-14th,storefront,Shop (placeholder),retail,1911,1913,circa,placeholder,src-placeholder
+b-313-14th,storefront,S & D University Shop,tailor,1913,1914,circa,high,src-umn-mndaily-1913-10-07
+b-313-14th,storefront,Shop (placeholder),retail,1914,1918,circa,placeholder,src-placeholder
+b-313-14th,storefront,Dahl's University Shop,tailor,1918,1919,circa,high,src-umn-mndaily-1918-05-08
+b-313-14th,storefront,Shop (placeholder),retail,1919,1973,circa,placeholder,src-placeholder
+b-313-14th,storefront,Art Materials Inc.,art supply,1978,1979,circa,high,src-umn-mndaily-1978-04-12
+b-313-14th,storefront,Ragstock,clothing store,1980,1981,circa,medium,src-umn-mndaily-1980
 b-313-14th,upstairs,Annie's Parlour,restaurant,1974,2020,circa,medium,src-wiki;src-hub-annies
 b-313-14th,upstairs,Annie's Parlour,restaurant,2023,,circa,low,src-placeholder
-b-313-14th,bar,Annie's Kitty Cat Klub,bar,2012,,circa,high,src-hcl-CPED-207165;src-hcl-CPED-219959
+b-313-14th,bar,Annie's Kitty Cat Klub,bar,2002,,circa,high,src-umn-mndaily-2002-12-12;src-hcl-CPED-207165;src-hcl-CPED-219959
 b-1315-4th,whole,Dwelling (placeholder),residence,1890,1925,circa,placeholder,src-placeholder
 b-1315-4th,shop,M. Townsley Mfg. Co. (lightning rods),manufacturer,1913,1914,circa,high,src-davisons-1913
 b-1315-4th-2,storefront,McCosh's Bookstore,bookstore,1926,1970,circa,low,src-popspots
@@ -63,14 +70,17 @@ b-425-14th,storefront,Shop (placeholder),retail,1925,1946,circa,placeholder,src-
 b-425-14th,storefront,John's Barber Shop,barber,1946,1947,circa,high,src-hcl-HCSchoolPubs-36526
 b-425-14th,storefront,Shop (placeholder),retail,1947,1965,circa,placeholder,src-placeholder
 b-425-14th,storefront 2,Varsity Art Store,art and framing shop,1982,1983,circa,medium,src-hcl-p17208coll7-87471;src-hcl-p17208coll7-88111
-b-425-14th,storefront,The Podium,music shop,1966,2022,circa,low,src-placeholder
+b-425-14th,storefront,The Podium,music shop,1966,2022,circa,low,src-umn-mndaily-1997
 b-425-14th,upstairs,The Book House,bookstore,1976,2012,circa,low,src-alumni
 b-425-14th,storefront,Music shop (placeholder),music shop,2023,,circa,placeholder,src-placeholder
 b-house-of-hanson,whole,House of Hanson,grocery,1932,2013,circa,medium,src-alumni
 b-venue,whole,The Venue at Dinkytown,apartments,2014,,circa,low,src-placeholder
 b-marshall,whole,The Marshall,apartments,2015,,circa,medium,src-hub-marshall
-b-406-14th,storefront,Shop (placeholder),retail,1918,1955,circa,placeholder,src-placeholder
-b-406-14th,storefront,Vescio's Italian Restaurant,restaurant,1956,2015,circa,medium,src-hub-vescios;src-hcl-Yearbooks-104473;src-hcl-p17208coll7-25363
+b-406-14th,storefront,Shop (placeholder),retail,1918,1922,circa,placeholder,src-placeholder
+b-406-14th,storefront,Star Meat & Provision Association (store no. 2),grocery,1922,1923,circa,high,src-umn-mndaily-1922-01-24
+b-406-14th,storefront,Shop (placeholder),retail,1923,1954,circa,placeholder,src-placeholder
+b-406-14th,storefront,Formico's,restaurant,1954,1956,circa,high,src-umn-mndaily-1954-06-29;src-umn-mndaily-1955-06-13
+b-406-14th,storefront,Vescio's Italian Restaurant,restaurant,1956,2015,exact,medium,src-hub-vescios;src-hcl-Yearbooks-104473;src-hcl-p17208coll7-25363;src-umn-mndaily-1995-07-18
 b-406-14th,storefront,Restaurant (placeholder),restaurant,2016,2020,circa,placeholder,src-placeholder
 b-406-14th,storefront,Bonchon Dinky,restaurant,2020,,circa,high,src-hcl-CPED-216168;src-hcl-CPED-219960
 b-414-14th,storefront,Storefront (placeholder),retail,1905,1906,circa,placeholder,src-placeholder
@@ -87,7 +97,9 @@ b-414-14th,storefront,Shop (placeholder),retail,1964,1965,circa,placeholder,src-
 b-414-14th,storefront,Bower and Haack Microscopes,optical shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
 b-414-14th,storefront,Shop (placeholder),retail,1966,1981,circa,placeholder,src-placeholder
 b-414-14th,storefront,Dave the Barber,barber,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
-b-414-14th,storefront,Shop (placeholder),retail,1985,2012,circa,placeholder,src-placeholder
+b-414-14th,storefront,Shop (placeholder),retail,1985,1997,circa,placeholder,src-placeholder
+b-414-14th,storefront,Paris Little Hair House,salon,1997,1998,circa,high,src-umn-mndaily-1997
+b-414-14th,storefront,Shop (placeholder),retail,1998,2012,circa,placeholder,src-placeholder
 b-1400-4th,corner,Bank (placeholder),bank,1908,1934,circa,placeholder,src-placeholder
 b-1400-4th,corner,University Drug Co.,pharmacy,1934,1936,circa,high,src-umn-mndaily-1934-10-30;src-umn-mndaily-1934-11-14;src-umn-mndaily-1935-04-04
 b-1400-4th,corner,Bank (placeholder),bank,1936,1960,circa,placeholder,src-placeholder
@@ -113,13 +125,13 @@ b-1411-4th,storefront,Café (placeholder),restaurant,1955,1958,circa,placeholder
 b-1411-4th,storefront,Varsity Art Store,art and framing shop,1958,1967,circa,high,src-hcl-Yearbooks-52506;src-hcl-HCSchoolPubs-37673;src-hcl-HCSchoolPubs-36585
 b-1411-4th,storefront,Café (placeholder),restaurant,1967,1982,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Campus Card,card shop,1982,1985,circa,high,src-umn-campusguide-1982;src-umn-campusguide-1984
-b-1411-4th,storefront,Café (placeholder),restaurant,1985,1998,circa,placeholder,src-placeholder
-b-1411-4th,storefront,Campus Card,card shop,1998,1999,circa,high,src-hcl-CPED-1115;src-hcl-CPED-31636
+b-1411-4th,storefront,Café (placeholder),restaurant,1985,1997,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Campus Card,card shop,1997,1999,circa,high,src-hcl-CPED-1115;src-hcl-CPED-31636;src-umn-mndaily-1997
 b-1411-4th,storefront,Café (placeholder),restaurant,1999,2015,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Verizon Wireless,phone store,2015,2016,circa,low,src-hub-verizon
 b-1411-4th-2,whole,Student apartments (placeholder),apartments,2018,,circa,placeholder,src-placeholder
 b-1315-4th-2,bank,Marquette Bank,bank,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
-b-1316-4th,dinkydale 1,Dinkydale Deli,restaurant,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,dinkydale 1,Dinkydale Deli,restaurant,1981,1987,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984;src-umn-mndaily-1986-07-02
 b-1316-4th,dinkydale 2,Punch & Judy's,shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
 b-1316-4th,dinkydale 3,The Tannery,shoe store,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
 b-1316-4th,dinkydale 4,University Optique and Contact Lenses,optical shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
@@ -138,10 +150,30 @@ b-1411-4th,storefront 2,Crane's Office & School Supplies,office supply,1967,1968
 b-1315-4th-2,storefront 3,Campus Fashions,clothing store,1964,1967,circa,high,src-umn-mndaily-1964-09-20;src-umn-mndaily-1966-09
 b-1315-4th-2,room 2,Count Erik's Travel Service,travel agency,1966,1967,circa,high,src-umn-mndaily-1966-08-02
 b-1315-4th-2,upstairs,Copy Co-op,copy shop,1973,1975,circa,high,src-umn-mndaily-1973-09-25;src-umn-mndaily-1974-01-03
-b-1315-4th-2,hotel,College Inn Hotel,hotel,1952,1953,circa,medium,src-umn-mndaily-1952-11-26
 b-327-14th,upstairs office 4,University Beauty Shop,beauty shop,1923,1924,circa,high,src-umn-mndaily-1923-11-28
 b-327-14th,upstairs office 5,Branch Studio (photographer),photographer,1921,1923,circa,high,src-umn-mndaily-1921-05-03;src-umn-mndaily-1922-05-16
 b-327-14th,basement,"E. H. Miller, bookbinding",bookbinder,1921,1922,circa,high,src-umn-mndaily-1921-05-26
 b-327-14th,upstairs office 6,Better Farming Association,office,1921,1922,circa,high,src-umn-mndaily-1921-03-31
 b-327-14th,storefront 2,Crate Prospects,furniture store,1978,1979,circa,high,src-umn-mndaily-1978-10-25
 b-425-14th,storefront 4,Dave's Barber Shop,barber,1967,1968,circa,high,src-umn-mndaily-1967-09
+b-1316-4th,hotel,College Inn Hotel,hotel,1940,1941,circa,high,src-umn-mndaily-1940-06-21
+b-1316-4th,hotel,College Inn Hotel,hotel,1952,1953,circa,high,src-umn-mndaily-1952-11-20
+b-1308-4th,office,Mauer's Photography,photographer,1997,1998,circa,high,src-umn-mndaily-1997
+b-1315-4th-2,bank,First Bank,bank,1997,1998,circa,high,src-umn-mndaily-1997
+b-1316-4th,office,Aid to SE Asia,office,1997,1998,circa,high,src-umn-mndaily-1997
+b-321-14th,storefront 2,Atomic Tattoo,tattoo parlor,1997,1998,circa,high,src-umn-mndaily-1997
+b-321-14th,upstairs 2,University Computer Center,computer store,1997,1998,circa,high,src-umn-mndaily-1997
+b-327-14th,storefront 2,Insignia,shop,1997,1998,circa,high,src-umn-mndaily-1997
+b-313-14th,upstairs,The Doll House (marcelling),beauty shop,1926,1927,circa,high,src-umn-mndaily-1926-05-20
+b-321-14th,storefront 3,Al Johnson's (college clothier),clothing store,1953,1955,circa,high,src-umn-mndaily-1953-05-18;src-umn-mndaily-1954-06-29
+b-321-14th,upstairs,M.E. Gorsky's,salon,1980,1984,circa,high,src-umn-mndaily-1980;src-umn-mndaily-1983
+b-321-14th,upstairs,The Salon Inc.,salon,1994,1995,circa,high,src-umn-mndaily-1994-10-18
+b-327-14th,upstairs office 7,Ford Offices (teachers agency),office,1909,1911,circa,high,src-umn-mndaily-1909-10-30;src-umn-mndaily-1910-05-23
+b-327-14th,upstairs office 8,Gullings & Gullings (beauty),beauty shop,1922,1923,circa,high,src-umn-mndaily-1922-12-05
+b-327-14th,storefront 3,Maya Market,shop,1980,1983,circa,high,src-umn-mndaily-1980
+b-327-14th,shop 4,Lake's Bookshop,bookstore,1982,1984,circa,high,src-umn-mndaily-1983
+b-327-14th,upstairs salon,Nina Lee Beauty Salon,beauty shop,1979,1980,circa,high,src-umn-mndaily-1979-05-24
+b-1316-4th,office 2,Campus Duplicating Service,copy shop,1955,1956,circa,high,src-umn-mndaily-1955-06-13
+b-1316-4th,office 2,Mainline Travel,travel agency,1994,1995,circa,high,src-umn-mndaily-1994-10-18
+b-1316-4th,office 3,Dinkytown Family Chiropractic,chiropractor,1994,1995,circa,high,src-umn-mndaily-1994-11-11
+b-1316-4th,dinkydale 4,Dinkydale Optical Center,optical shop,1987,1988,circa,high,src-umn-mndaily-1987-07-01
