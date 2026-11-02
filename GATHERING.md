@@ -42,6 +42,22 @@ Every claim below is grounded in (a) live-fetched public web sources, or (b) ver
 
 **Lesson reinforced (see ASSESSMENT.md):** mapping a business name to a `building_id` requires an *independent exact address match*. Close-but-not-exact (1311 vs 1316) or different-block (1327–1329) does **not** qualify — mark it placeholder instead of inventing a match.
 
+## 2b. Status update: autonomous research job, run 1 (2026-11-01)
+
+Job dir `~/data/jobs/dinkytown` holds raw/ (saved sources), notes/ (crosswalks, unresolved.md, photo-candidates.csv).
+Every new or changed named tenant has a verbatim quote in `data/evidence.csv` that passes `scripts/check_evidence.py`.
+
+- **Tenants:** 44 -> 78 rows. Confidence before: placeholder 21 / low 12 / medium 10 / high 1. Now: placeholder 32 / low 15 / medium 13 / high 18. Placeholder count rose because ranges were split around the new finds.
+- **Post-2005 Hub crosswalk: done.** 85 Wayback item pages carry street addresses. Exact matches added Refinery Salon (321), Chatime (1315), Fast Eddie's and Varsity Bike (1316), Verizon (1411), and corroborated Marshall, Vescio's, Loring, Annie's, Varsity.
+- **Pre-1964 directories:** archive.org has only Davison's 1913 and 1914. Added: Wm. Simms hardware (411), Swain-Farmer Co (414), M. Townsley Mfg Co (1315), dentists Melvin and Wright and printer Stevens (327). The checker now parses the 1910s form "1315 SE 4th".
+- **HCL digital collections** (council proceedings, community papers, yearbooks, 1974/1998 photo surveys) filled 1964-2025 slots: Bower & Haack (414, 1965), Nina Lee (327, 1965), Scully Music (1315, 1969), Campus Cobbler (321, 1974), Campus Copy (1315, 1977), The Tuffet (1316, 1978), Espresso Royale (411, c1987-2003), NorthStar Travel (1315, 1991), Campus Card (1411, 1998), Fru-Lala (1315, 2010), Annie's Kitty Cat Klub (313, 2012-), Bonchon Dinky (406, 2020-).
+- **Conflicts needing a human** (not changed; details in the job's notes/unresolved.md):
+  - 1974 photos put Gray's at 329 14th, not 327.
+  - "The Loring" was licensed at 327 in 2019-22, which conflicts with the Gray's 2019 start.
+  - The Hub and a 2011 paper put Al's Breakfast at 414, not 413.
+  - The Hub puts McDonald's at 407 15th Ave SE, not 1400 4th St.
+- Still entirely unfilled: 1400, 1401, 1414 4th St SE (no exact-address hit in any source tried yet).
+
 ---
 
 ## 3. Reachable sources and what they give (post-2005 / 1964–2005 gap focus)
