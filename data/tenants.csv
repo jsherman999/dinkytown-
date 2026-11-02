@@ -24,7 +24,10 @@ b-1315-4th-2,storefront,McCosh's Bookstore,bookstore,1926,1970,circa,low,src-pop
 b-1315-4th-2,storefront 2,Scully Music Studio,music shop,1969,1970,circa,high,src-hcl-Yearbooks-108217
 b-1315-4th-2,storefront,Record store (placeholder),music,1975,1977,circa,placeholder,src-placeholder
 b-1315-4th-2,storefront,Campus Copy Shoppe,copy shop,1977,1979,circa,high,src-hcl-p17208coll7-75664;src-hcl-p17208coll7-72787
-b-1315-4th-2,storefront,Record store (placeholder),music,1979,1991,circa,placeholder,src-placeholder
+b-1315-4th-2,storefront,Record store (placeholder),music,1979,1981,circa,placeholder,src-placeholder
+b-1315-4th-2,storefront,Campus Copy Shoppe,copy shop,1981,1984,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982
+b-1315-4th-2,storefront,Campus Printing,copy shop,1984,1985,circa,high,src-umn-campusguide-1984
+b-1315-4th-2,storefront,Record store (placeholder),music,1985,1991,circa,placeholder,src-placeholder
 b-1315-4th-2,storefront,NorthStar Travel Service,travel agency,1991,1992,circa,high,src-hcl-p17208coll7-59419
 b-1315-4th-2,storefront,Record store (placeholder),music,1992,1995,circa,placeholder,src-placeholder
 b-1315-4th-2,storefront,Restaurant (placeholder),restaurant,2000,2010,circa,placeholder,src-placeholder
@@ -39,7 +42,9 @@ b-1308-4th,whole,Varsity Theater (music venue),venue,2005,2018,circa,medium,src-
 b-1308-4th,whole,Varsity Theater,venue,2021,,circa,medium,src-wiki;src-hcl-CPED-217767
 b-1316-4th,storefront,Store (placeholder),retail,1920,1978,circa,placeholder,src-placeholder
 b-1316-4th,storefront,The Tuffet,second-hand goods,1978,1980,circa,high,src-hcl-CPED-241204
-b-1316-4th,storefront,Store (placeholder),retail,1980,2012,circa,placeholder,src-placeholder
+b-1316-4th,storefront,Store (placeholder),retail,1980,1981,circa,placeholder,src-placeholder
+b-1316-4th,storefront,The Tuffet,second-hand goods,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,storefront,Store (placeholder),retail,1985,2012,circa,placeholder,src-placeholder
 b-1316-4th,storefront,The Book House,bookstore,2013,,circa,medium,src-phd-tour;src-alumni
 b-1316-4th,storefront 2,Fast Eddie's Shoe Repair,shoe repair,2015,2016,circa,low,src-hub-fast-eddies
 b-1316-4th,storefront 3,Varsity Bike & Transit,bike shop,2015,2016,circa,low,src-hub-varsity-bike
@@ -70,7 +75,9 @@ b-414-14th,storefront,Storefront (placeholder),retail,1915,1957,circa,placeholde
 b-414-14th,storefront,Ten O'Clock Scholar,coffeehouse,1958,1963,circa,medium,src-popspots
 b-414-14th,storefront,Shop (placeholder),retail,1964,1965,circa,placeholder,src-placeholder
 b-414-14th,storefront,Bower and Haack Microscopes,optical shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
-b-414-14th,storefront,Shop (placeholder),retail,1966,2012,circa,placeholder,src-placeholder
+b-414-14th,storefront,Shop (placeholder),retail,1966,1981,circa,placeholder,src-placeholder
+b-414-14th,storefront,Dave the Barber,barber,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-414-14th,storefront,Shop (placeholder),retail,1985,2012,circa,placeholder,src-placeholder
 b-1400-4th,corner,Bank (placeholder),bank,1908,1934,circa,placeholder,src-placeholder
 b-1400-4th,corner,University Drug Co.,pharmacy,1934,1936,circa,high,src-umn-mndaily-1934-10-30;src-umn-mndaily-1934-11-14;src-umn-mndaily-1935-04-04
 b-1400-4th,corner,Bank (placeholder),bank,1936,1960,circa,placeholder,src-placeholder
@@ -90,8 +97,21 @@ b-1401-4th,corner,Drugstore (placeholder),pharmacy,1920,1950,circa,placeholder,s
 b-1401-4th,corner,Bar (placeholder),bar,1950,,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Café (placeholder),restaurant,1930,1958,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Varsity Art Store,art and framing shop,1958,1967,circa,high,src-hcl-Yearbooks-52506;src-hcl-HCSchoolPubs-37673;src-hcl-HCSchoolPubs-36585
-b-1411-4th,storefront,Café (placeholder),restaurant,1967,1998,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Café (placeholder),restaurant,1967,1982,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Campus Card,card shop,1982,1985,circa,high,src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1411-4th,storefront,Café (placeholder),restaurant,1985,1998,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Campus Card,card shop,1998,1999,circa,high,src-hcl-CPED-1115;src-hcl-CPED-31636
 b-1411-4th,storefront,Café (placeholder),restaurant,1999,2015,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Verizon Wireless,phone store,2015,2016,circa,low,src-hub-verizon
 b-1411-4th-2,whole,Student apartments (placeholder),apartments,2018,,circa,placeholder,src-placeholder
+b-1315-4th-2,bank,Marquette Bank,bank,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,dinkydale 1,Dinkydale Deli,restaurant,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,dinkydale 2,Punch & Judy's,shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,dinkydale 3,The Tannery,shoe store,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,dinkydale 4,University Optique and Contact Lenses,optical shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,dinkydale 5,The Store,clothing store,1981,1984,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982
+b-1316-4th,dinkydale 6,Needle Point of View,yarn shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1984
+b-1316-4th,dinkydale 7,Lowell Lundeen,jeweler,1982,1985,circa,high,src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,upstairs,Dinkydale Scientific Fiction,bookstore,1981,1982,circa,high,src-umn-campusguide-1981
+b-1316-4th,dinkydale 8,Dinkytown's Consignment Shop,second-hand goods,1981,1982,circa,high,src-umn-campusguide-1981
+b-425-14th,storefront 3,Varsity Prints and Frames,art and framing shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
