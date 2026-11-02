@@ -70,9 +70,15 @@ b-414-14th,storefront,Ten O'Clock Scholar,coffeehouse,1958,1963,circa,medium,src
 b-414-14th,storefront,Shop (placeholder),retail,1964,1965,circa,placeholder,src-placeholder
 b-414-14th,storefront,Bower and Haack Microscopes,optical shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
 b-414-14th,storefront,Shop (placeholder),retail,1966,2012,circa,placeholder,src-placeholder
-b-1400-4th,corner,Bank (placeholder),bank,1908,1960,circa,placeholder,src-placeholder
-b-1400-4th,corner,Storefront (placeholder),retail,1960,,circa,placeholder,src-placeholder
-b-1414-4th,whole,Grocer (placeholder),grocery,1888,1962,circa,placeholder,src-placeholder
+b-1400-4th,corner,Bank (placeholder),bank,1908,1934,circa,placeholder,src-placeholder
+b-1400-4th,corner,University Drug Co.,pharmacy,1934,1936,circa,high,src-umn-mndaily-1934-10-30;src-umn-mndaily-1934-11-14;src-umn-mndaily-1935-04-04
+b-1400-4th,corner,Bank (placeholder),bank,1936,1960,circa,placeholder,src-placeholder
+b-1400-4th,corner,Storefront (placeholder),retail,1960,1976,circa,placeholder,src-placeholder
+b-1400-4th,corner,Heart of the Earth Survival,school,1976,1977,circa,high,src-umn-mndaily-1976-08-09
+b-1400-4th,corner,Storefront (placeholder),retail,1977,,circa,placeholder,src-placeholder
+b-1414-4th,whole,Grocer (placeholder),grocery,1888,1902,circa,placeholder,src-placeholder
+b-1414-4th,whole,The Occidental (cafe and restaurant),restaurant,1902,1903,circa,high,src-umn-mndaily-1902-11-05
+b-1414-4th,whole,Grocer (placeholder),grocery,1903,1962,circa,placeholder,src-placeholder
 b-1414-4th-2,whole,Bank branch (placeholder),bank,1963,2010,circa,placeholder,src-placeholder
 b-1414-4th-2,whole,Pharmacy (placeholder),pharmacy,2011,,circa,placeholder,src-placeholder
 b-1401-4th,corner,Drugstore (placeholder),pharmacy,1902,1950,circa,placeholder,src-placeholder
