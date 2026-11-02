@@ -6,6 +6,7 @@ b-327-14th,corner storefront,Restaurant (placeholder),restaurant,2023,,circa,pla
 b-327-14th,upstairs office 1,"M. R. Melvin, dentist",dentist,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-327-14th,upstairs office 2,"E. A. Wright, dentist",dentist,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-327-14th,storefront 2,Nina Lee,shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
+b-327-14th,storefront 3,Dinky Town Dime,variety store,1965,1966,circa,low,src-phd-tour;src-alumni
 b-327-14th,upstairs office 3,"A. C. Stevens, printer",printer,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-321-14th,storefront,Dayton's University Store,department store,1925,1955,circa,medium,src-alumni
 b-321-14th,storefront,Retail (placeholder),retail,1956,1974,circa,placeholder,src-placeholder
@@ -78,10 +79,14 @@ b-1400-4th,corner,Heart of the Earth Survival,school,1976,1977,circa,high,src-um
 b-1400-4th,corner,Storefront (placeholder),retail,1977,,circa,placeholder,src-placeholder
 b-1414-4th,whole,Grocer (placeholder),grocery,1888,1902,circa,placeholder,src-placeholder
 b-1414-4th,whole,The Occidental (cafe and restaurant),restaurant,1902,1903,circa,high,src-umn-mndaily-1902-11-05
-b-1414-4th,whole,Grocer (placeholder),grocery,1903,1962,circa,placeholder,src-placeholder
+b-1414-4th,whole,Grocer (placeholder),grocery,1903,1917,circa,placeholder,src-placeholder
+b-1414-4th,whole,Eagle Garage,garage,1917,1918,circa,high,src-umn-mndaily-1917-03-24;src-umn-mndaily-1917-03-27
+b-1414-4th,whole,Grocer (placeholder),grocery,1918,1962,circa,placeholder,src-placeholder
 b-1414-4th-2,whole,Bank branch (placeholder),bank,1963,2010,circa,placeholder,src-placeholder
 b-1414-4th-2,whole,Pharmacy (placeholder),pharmacy,2011,,circa,placeholder,src-placeholder
-b-1401-4th,corner,Drugstore (placeholder),pharmacy,1902,1950,circa,placeholder,src-placeholder
+b-1401-4th,corner,Drugstore (placeholder),pharmacy,1902,1919,circa,placeholder,src-placeholder
+b-1401-4th,corner,University Drug Store,pharmacy,1919,1920,circa,medium,src-umn-mndaily-1919-10-21;src-umn-mndaily-1919-10-28
+b-1401-4th,corner,Drugstore (placeholder),pharmacy,1920,1950,circa,placeholder,src-placeholder
 b-1401-4th,corner,Bar (placeholder),bar,1950,,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Café (placeholder),restaurant,1930,1958,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Varsity Art Store,art and framing shop,1958,1967,circa,high,src-hcl-Yearbooks-52506;src-hcl-HCSchoolPubs-37673;src-hcl-HCSchoolPubs-36585
