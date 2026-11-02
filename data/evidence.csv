@@ -9,20 +9,20 @@ b-406-14th,Vescio's Italian Restaurant,1956,address,406 14th Ave SE,"Our address
 b-327-14th,Loring Pasta Bar,2001,address,327 14th Avenue SE,"Our address Address: 327 14th Avenue SE Minneapolis, MN 55414",raw/hub/item-loring-pasta-bar.html,http://web.archive.org/web/20141003075124/http://dinkytownhub.com:80/item/loring-pasta-bar/
 b-313-14th,Annie's Parlour,1974,address,313 14th Ave. SE,"Our address Address: 313 14th Ave. SE Minneapolis, MN 55414",raw/hub/item-annies-parlour.html,http://web.archive.org/web/20141003061205/http://dinkytownhub.com:80/item/annies-parlour/
 b-1308-4th,Varsity Theater (music venue),2005,address,1308 4th St SE,"Our address Address: 1308 4th St SE Minneapolis, MN 55414",raw/hub/item-varsity-theater.html,http://web.archive.org/web/20150614102929/http://dinkytownhub.com:80/item/varsity-theater/
-b-327-14th,"M. R. Melvin, dentist",1913,address,327 14th av SE,"Melvin M R, 327 14th av SE.",raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
-b-327-14th,"M. R. Melvin, dentist",1913,address,327 14th av SE,Merton R dentist 327 14th av SE,raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
-b-327-14th,"M. R. Melvin, dentist",1913,address,327 14th av S E,"Melvin M R, 327 14th av S E",raw/dir/davisons-1914-excerpts.txt,https://archive.org/details/davisonsminneapo1914unse
-b-327-14th,"E. A. Wright, dentist",1913,address,327 14th av SE,"Wright E A, 327 14th av SE.",raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
-b-327-14th,"E. A. Wright, dentist",1913,address,327 14th av SE,Ernest A dentist 327 14th av SE,raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
-b-327-14th,"E. A. Wright, dentist",1913,address,327 14th av S E,"Wright E A, 327 14th av S E.",raw/dir/davisons-1914-excerpts.txt,https://archive.org/details/davisonsminneapo1914unse
-b-327-14th,"A. C. Stevens, printer",1913,address,327 14th av SE,"Stevens A C, 327 14th av SE.",raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
-b-327-14th,"A. C. Stevens, printer",1913,address,327 14th av S E,"Stevens A C, 327 14th av S E.",raw/dir/davisons-1914-excerpts.txt,https://archive.org/details/davisonsminneapo1914unse
-b-411-14th,Wm. Simms hardware,1913,address,411 14th av SE,"Simms Wm, 411 14th av SE.",raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
-b-411-14th,Wm. Simms hardware,1913,address,411-413 14th av S E,SIMMS WILLIAM Hardware Furniture Crockery Glass- ware and Complete House Furnishings 411-413 14th av S E,raw/dir/davisons-1914-excerpts.txt,https://archive.org/details/davisonsminneapo1914unse
-b-414-14th,Swain-Farmer Co (fuel and transfer),1913,address,414 14th av SE,Fuel and Transfer 414 14th av SE,raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
-b-414-14th,Swain-Farmer Co (fuel and transfer),1913,address,414 14th av S E,"Swain-Farmer Co, 414 14th av S E.",raw/dir/davisons-1914-excerpts.txt,https://archive.org/details/davisonsminneapo1914unse
-b-1315-4th,M. Townsley Mfg. Co. (lightning rods),1913,address,1315 SE 4th,"Townsley M Mnfg Co, 1315 SE 4th.",raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
-b-1315-4th,M. Townsley Mfg. Co. (lightning rods),1913,address,1315 SE 4th,Townsley Fred B Sewell) lightning rod mnfrs 1315 SE 4th,raw/dir/davisons-1913-excerpts.txt,https://archive.org/details/davisonsminneapo1913unse
+b-327-14th,"M. R. Melvin, dentist",1913,address,327 14th av SE,"Melvin M R, 327 14th av SE.",raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
+b-327-14th,"M. R. Melvin, dentist",1913,address,327 14th av SE,Merton R dentist 327 14th av SE,raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
+b-327-14th,"M. R. Melvin, dentist",1913,address,327 14th av S E,"Melvin M R, 327 14th av S E",raw/dir/davisons-1914.txt,https://archive.org/details/davisonsminneapo1914unse
+b-327-14th,"E. A. Wright, dentist",1913,address,327 14th av SE,"Wright E A, 327 14th av SE.",raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
+b-327-14th,"E. A. Wright, dentist",1913,address,327 14th av SE,Ernest A dentist 327 14th av SE,raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
+b-327-14th,"E. A. Wright, dentist",1913,address,327 14th av S E,"Wright E A, 327 14th av S E.",raw/dir/davisons-1914.txt,https://archive.org/details/davisonsminneapo1914unse
+b-327-14th,"A. C. Stevens, printer",1913,address,327 14th av SE,"Stevens A C, 327 14th av SE.",raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
+b-327-14th,"A. C. Stevens, printer",1913,address,327 14th av S E,"Stevens A C, 327 14th av S E.",raw/dir/davisons-1914.txt,https://archive.org/details/davisonsminneapo1914unse
+b-411-14th,Wm. Simms hardware,1913,address,411 14th av SE,"Simms Wm, 411 14th av SE.",raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
+b-411-14th,Wm. Simms hardware,1913,address,411-413 14th av S E,SIMMS WILLIAM Hardware Furniture Crockery Glass- ware and Complete House Furnishings 411-413 14th av S E,raw/dir/davisons-1914.txt,https://archive.org/details/davisonsminneapo1914unse
+b-414-14th,Swain-Farmer Co (fuel and transfer),1913,address,414 14th av SE,Fuel and Transfer 414 14th av SE,raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
+b-414-14th,Swain-Farmer Co (fuel and transfer),1913,address,414 14th av S E,"Swain-Farmer Co, 414 14th av S E.",raw/dir/davisons-1914.txt,https://archive.org/details/davisonsminneapo1914unse
+b-1315-4th,M. Townsley Mfg. Co. (lightning rods),1913,address,1315 SE 4th,"Townsley M Mnfg Co, 1315 SE 4th.",raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
+b-1315-4th,M. Townsley Mfg. Co. (lightning rods),1913,address,1315 SE 4th,Townsley Fred B Sewell) lightning rod mnfrs 1315 SE 4th,raw/dir/davisons-1913.txt,https://archive.org/details/davisonsminneapo1913unse
 b-406-14th,Bonchon Dinky,2020,address,406 14TH AVE SE,"Bonchon Dinky, 406 14TH AVE SE Minneapolis, MN, submitted by Dinkytown Bon Chon Inc",raw/hcl/item-CPED-216168.txt,https://digitalcollections.hclib.org/digital/collection/CPED/id/216168
 b-406-14th,Bonchon Dinky,2020,address,406 14TH AVE SE,"Bonchon Dinky, 406 14TH AVE SE Minneapolis, MN, submitted by Dinkytown Bon Chon Inc",raw/hcl/item-CPED-219960.txt,https://digitalcollections.hclib.org/digital/collection/CPED/id/219960
 b-313-14th,Annie's Kitty Cat Klub,2012,address,313 14th Ave SE,"Russel-Harris Enterprises, Inc, dba Annies Kitty Cat Klub, 313 14th Ave SE",raw/hcl/item-CPED-207165.txt,https://digitalcollections.hclib.org/digital/collection/CPED/id/207165
