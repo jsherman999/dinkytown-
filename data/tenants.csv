@@ -1,6 +1,6 @@
 building_id,unit,name,category,start_year,end_year,start_precision,confidence,source_ids
 b-327-14th,corner storefront,Gray's Campus Drug,pharmacy,1904,1990,circa,low,src-phd-tour;src-wiki
-b-327-14th,corner storefront,Loring Pasta Bar,restaurant,2001,2018,circa,medium,src-wiki;src-hub-loring
+b-327-14th,corner storefront,Loring Pasta Bar,restaurant,2001,2018,circa,medium,src-wiki;src-hub-loring;src-hcl-CPED-206717
 b-327-14th,corner storefront,Gray's,restaurant,2019,,circa,medium,src-wiki
 b-327-14th,upstairs office 1,"M. R. Melvin, dentist",dentist,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-327-14th,upstairs office 2,"E. A. Wright, dentist",dentist,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
@@ -12,19 +12,29 @@ b-321-14th,storefront,Retail (placeholder),retail,2016,,circa,placeholder,src-pl
 b-313-14th,storefront,Shop (placeholder),retail,1910,1973,circa,placeholder,src-placeholder
 b-313-14th,upstairs,Annie's Parlour,restaurant,1974,2020,circa,medium,src-wiki;src-hub-annies
 b-313-14th,upstairs,Annie's Parlour,restaurant,2023,,circa,low,src-placeholder
+b-313-14th,bar,Annie's Kitty Cat Klub,bar,2012,,circa,high,src-hcl-CPED-207165;src-hcl-CPED-219959
 b-1315-4th,whole,Dwelling (placeholder),residence,1890,1925,circa,placeholder,src-placeholder
 b-1315-4th,shop,M. Townsley Mfg. Co. (lightning rods),manufacturer,1913,1914,circa,high,src-davisons-1913
 b-1315-4th-2,storefront,McCosh's Bookstore,bookstore,1926,1970,circa,low,src-popspots
-b-1315-4th-2,storefront,Record store (placeholder),music,1975,1995,circa,placeholder,src-placeholder
-b-1315-4th-2,storefront,Restaurant (placeholder),restaurant,2000,2017,circa,placeholder,src-placeholder
+b-1315-4th-2,storefront 2,Scully Music Studio,music shop,1969,1970,circa,high,src-hcl-Yearbooks-108217
+b-1315-4th-2,storefront,Record store (placeholder),music,1975,1977,circa,placeholder,src-placeholder
+b-1315-4th-2,storefront,Campus Copy Shoppe,copy shop,1977,1979,circa,high,src-hcl-p17208coll7-75664;src-hcl-p17208coll7-72787
+b-1315-4th-2,storefront,Record store (placeholder),music,1979,1991,circa,placeholder,src-placeholder
+b-1315-4th-2,storefront,NorthStar Travel Service,travel agency,1991,1992,circa,high,src-hcl-p17208coll7-59419
+b-1315-4th-2,storefront,Record store (placeholder),music,1992,1995,circa,placeholder,src-placeholder
+b-1315-4th-2,storefront,Restaurant (placeholder),restaurant,2000,2010,circa,placeholder,src-placeholder
+b-1315-4th-2,storefront,Fru-Lala,restaurant,2010,2011,circa,high,src-hcl-CPED-201888
+b-1315-4th-2,storefront,Restaurant (placeholder),restaurant,2011,2017,circa,placeholder,src-placeholder
 b-1315-4th-2,storefront,Chatime,tea shop,2017,2018,circa,low,src-hub-chatime
 b-1315-4th-2,storefront,Restaurant (placeholder),restaurant,2018,,circa,placeholder,src-placeholder
 b-1308-4th,whole,University Theater,theater,1915,1938,circa,medium,src-phd-tour
 b-1308-4th,whole,Varsity Theater,theater,1938,1988,circa,medium,src-wiki
 b-1308-4th,whole,Church (placeholder),church,1990,2004,circa,low,src-placeholder
-b-1308-4th,whole,Varsity Theater (music venue),venue,2005,2018,circa,medium,src-wiki;src-hub-varsity-theater
-b-1308-4th,whole,Varsity Theater,venue,2021,,circa,medium,src-wiki
-b-1316-4th,storefront,Store (placeholder),retail,1920,2012,circa,placeholder,src-placeholder
+b-1308-4th,whole,Varsity Theater (music venue),venue,2005,2018,circa,medium,src-wiki;src-hub-varsity-theater;src-hcl-CPED-193390
+b-1308-4th,whole,Varsity Theater,venue,2021,,circa,medium,src-wiki;src-hcl-CPED-217767
+b-1316-4th,storefront,Store (placeholder),retail,1920,1978,circa,placeholder,src-placeholder
+b-1316-4th,storefront,The Tuffet,second-hand goods,1978,1980,circa,high,src-hcl-CPED-241204
+b-1316-4th,storefront,Store (placeholder),retail,1980,2012,circa,placeholder,src-placeholder
 b-1316-4th,storefront,The Book House,bookstore,2013,,exact,medium,src-alumni
 b-1316-4th,storefront 2,Fast Eddie's Shoe Repair,shoe repair,2015,2016,circa,low,src-hub-fast-eddies
 b-1316-4th,storefront 3,Varsity Bike & Transit,bike shop,2015,2016,circa,low,src-hub-varsity-bike
@@ -32,7 +42,8 @@ b-413-14th,whole,Storage (placeholder),other,1930,1949,circa,placeholder,src-pla
 b-413-14th,whole,Al's Breakfast,diner,1950,,exact,high,src-wiki-als
 b-411-14th,storefront,Wm. Simms hardware,hardware,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-411-14th,storefront,Storefront (placeholder),retail,1915,1963,circa,placeholder,src-placeholder
-b-411-14th,storefront,Simms Hardware,hardware,1963,,circa,low,src-popspots
+b-411-14th,storefront,Simms Hardware,hardware,1963,,circa,low,src-popspots;src-hcl-p17208coll7-55759
+b-411-14th,storefront 2,Espresso Royale,coffeehouse,1987,2004,circa,medium,src-hcl-p17208coll7-61411;src-hcl-p17208coll7-167823
 b-425-14th,storefront,Shop (placeholder),retail,1925,1965,circa,placeholder,src-placeholder
 b-425-14th,storefront,The Podium,music shop,1966,2022,circa,low,src-placeholder
 b-425-14th,upstairs,The Book House,bookstore,1976,2012,circa,low,src-alumni
@@ -42,12 +53,15 @@ b-venue,whole,The Venue at Dinkytown,apartments,2014,,circa,low,src-placeholder
 b-marshall,whole,The Marshall,apartments,2015,,circa,medium,src-hub-marshall
 b-406-14th,storefront,Shop (placeholder),retail,1918,1955,circa,placeholder,src-placeholder
 b-406-14th,storefront,Vescio's Italian Restaurant,restaurant,1956,2015,circa,low,src-hub-vescios
-b-406-14th,storefront,Restaurant (placeholder),restaurant,2016,,circa,placeholder,src-placeholder
+b-406-14th,storefront,Restaurant (placeholder),restaurant,2016,2020,circa,placeholder,src-placeholder
+b-406-14th,storefront,Bonchon Dinky,restaurant,2020,,circa,high,src-hcl-CPED-216168;src-hcl-CPED-219960
 b-414-14th,storefront,Storefront (placeholder),retail,1905,1913,circa,placeholder,src-placeholder
 b-414-14th,storefront,Swain-Farmer Co (fuel and transfer),fuel dealer,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-414-14th,storefront,Storefront (placeholder),retail,1915,1957,circa,placeholder,src-placeholder
 b-414-14th,storefront,Ten O'Clock Scholar,coffeehouse,1958,1963,circa,medium,src-popspots
-b-414-14th,storefront,Shop (placeholder),retail,1964,2012,circa,placeholder,src-placeholder
+b-414-14th,storefront,Shop (placeholder),retail,1964,1965,circa,placeholder,src-placeholder
+b-414-14th,storefront,Bower and Haack Microscopes,optical shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
+b-414-14th,storefront,Shop (placeholder),retail,1966,2012,circa,placeholder,src-placeholder
 b-1400-4th,corner,Bank (placeholder),bank,1908,1960,circa,placeholder,src-placeholder
 b-1400-4th,corner,McDonald's,restaurant,1963,2020,circa,low,src-alumni
 b-1414-4th,whole,Grocer (placeholder),grocery,1888,1962,circa,placeholder,src-placeholder
