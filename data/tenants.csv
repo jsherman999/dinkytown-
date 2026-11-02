@@ -8,7 +8,7 @@ b-313-14th,storefront,Shop (placeholder),retail,1910,1973,circa,placeholder,src-
 b-313-14th,upstairs,Annie's Parlour,restaurant,1974,2020,circa,medium,src-wiki
 b-313-14th,upstairs,Annie's Parlour,restaurant,2023,,circa,low,src-placeholder
 b-1315-4th,whole,Dwelling (placeholder),residence,1890,1925,circa,placeholder,src-placeholder
-b-1315-4th-2,storefront,Campus bookstore (placeholder),bookstore,1926,1970,circa,placeholder,src-placeholder
+b-1315-4th-2,storefront,McCosh's Bookstore,bookstore,1926,1970,circa,low,src-popspots
 b-1315-4th-2,storefront,Record store (placeholder),music,1975,1995,circa,placeholder,src-placeholder
 b-1315-4th-2,storefront,Restaurant (placeholder),restaurant,2000,,circa,placeholder,src-placeholder
 b-1308-4th,whole,University Theater,theater,1915,1938,circa,medium,src-phd-tour
@@ -16,11 +16,11 @@ b-1308-4th,whole,Varsity Theater,theater,1938,1988,circa,medium,src-wiki
 b-1308-4th,whole,Church (placeholder),church,1990,2004,circa,low,src-placeholder
 b-1308-4th,whole,Varsity Theater (music venue),venue,2005,2018,circa,medium,src-wiki
 b-1308-4th,whole,Varsity Theater,venue,2021,,circa,medium,src-wiki
-b-1316-4th,storefront,Storefronts (placeholder),retail,1920,2012,circa,placeholder,src-placeholder
+b-1316-4th,storefront,Store (placeholder),retail,1920,2012,circa,placeholder,src-placeholder
 b-1316-4th,storefront,The Book House,bookstore,2013,,exact,medium,src-alumni
 b-413-14th,whole,Storage (placeholder),other,1930,1949,circa,placeholder,src-placeholder
 b-413-14th,whole,Al's Breakfast,diner,1950,,exact,high,src-wiki-als
-b-411-14th,storefront,Storefront (placeholder),retail,1912,,circa,placeholder,src-placeholder
+b-411-14th,storefront,Simms Hardware,hardware,1963,,circa,low,src-popspots
 b-425-14th,storefront,Shop (placeholder),retail,1925,1965,circa,placeholder,src-placeholder
 b-425-14th,storefront,The Podium,music shop,1966,2022,circa,low,src-placeholder
 b-425-14th,upstairs,The Book House,bookstore,1976,2012,circa,low,src-alumni
@@ -35,7 +35,7 @@ b-414-14th,storefront,Storefront (placeholder),retail,1905,1957,circa,placeholde
 b-414-14th,storefront,Ten O'Clock Scholar,coffeehouse,1958,1963,circa,medium,src-popspots
 b-414-14th,storefront,Shop (placeholder),retail,1964,2012,circa,placeholder,src-placeholder
 b-1400-4th,corner,Bank (placeholder),bank,1908,1960,circa,placeholder,src-placeholder
-b-1400-4th,corner,Fast food (placeholder),restaurant,1975,,circa,placeholder,src-placeholder
+b-1400-4th,corner,McDonald's,restaurant,1963,2020,circa,low,src-alumni
 b-1414-4th,whole,Grocer (placeholder),grocery,1888,1962,circa,placeholder,src-placeholder
 b-1414-4th-2,whole,Bank branch (placeholder),bank,1963,2010,circa,placeholder,src-placeholder
 b-1414-4th-2,whole,Pharmacy (placeholder),pharmacy,2011,,circa,placeholder,src-placeholder
