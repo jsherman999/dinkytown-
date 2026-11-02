@@ -9,7 +9,9 @@ b-327-14th,storefront 2,Nina Lee,shop,1965,1966,circa,high,src-hcl-Yearbooks-104
 b-327-14th,storefront 3,Dinky Town Dime,variety store,1965,1966,circa,low,src-phd-tour;src-alumni
 b-327-14th,upstairs office 3,"A. C. Stevens, printer",printer,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
 b-321-14th,storefront,Dayton's University Store,department store,1925,1955,circa,medium,src-alumni
-b-321-14th,storefront,Retail (placeholder),retail,1956,1974,circa,placeholder,src-placeholder
+b-321-14th,storefront,Retail (placeholder),retail,1956,1963,circa,placeholder,src-placeholder
+b-321-14th,storefront,Campus Cobbler,shoe repair,1963,1964,circa,high,src-umn-mndaily-1963-04-24
+b-321-14th,storefront,Retail (placeholder),retail,1964,1974,circa,placeholder,src-placeholder
 b-321-14th,storefront,Campus Cobbler,shoe repair,1974,1975,circa,high,src-hcl-CPED-38421;src-hcl-CPED-37748
 b-321-14th,storefront,Retail (placeholder),retail,1975,2015,circa,placeholder,src-placeholder
 b-321-14th,storefront,The Refinery Salon,salon,2015,2016,circa,low,src-hub-refinery-salon
@@ -35,7 +37,7 @@ b-1315-4th-2,storefront,Fru-Lala,restaurant,2010,2011,circa,high,src-hcl-CPED-20
 b-1315-4th-2,storefront,Restaurant (placeholder),restaurant,2011,2017,circa,placeholder,src-placeholder
 b-1315-4th-2,storefront,Chatime,tea shop,2017,2018,circa,low,src-hub-chatime
 b-1315-4th-2,storefront,Restaurant (placeholder),restaurant,2018,,circa,placeholder,src-placeholder
-b-1308-4th,whole,University Theater,theater,1915,1938,circa,medium,src-phd-tour
+b-1308-4th,whole,University Theater,theater,1915,1938,circa,medium,src-phd-tour;src-umn-mndaily-1921-04-01
 b-1308-4th,whole,Varsity Theater,theater,1938,1988,circa,medium,src-wiki
 b-1308-4th,whole,Church (placeholder),church,1990,2004,circa,low,src-placeholder
 b-1308-4th,whole,Varsity Theater (music venue),venue,2005,2018,circa,medium,src-wiki;src-hub-varsity-theater;src-hcl-CPED-193390
@@ -52,8 +54,10 @@ b-413-14th,whole,Storage (placeholder),other,1930,1937,circa,placeholder,src-pla
 b-413-14th,whole,Hunky Dory,hamburger stand,1937,1950,circa,low,src-hcl-p17208coll7-61063;src-wiki-als
 b-413-14th,whole,Al's Breakfast,diner,1950,,exact,high,src-wiki-als
 b-411-14th,storefront,Wm. Simms hardware,hardware,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
-b-411-14th,storefront,Storefront (placeholder),retail,1915,1963,circa,placeholder,src-placeholder
-b-411-14th,storefront,Simms Hardware,hardware,1963,,circa,low,src-popspots;src-hcl-p17208coll7-55759
+b-411-14th,storefront,Storefront (placeholder),retail,1915,1926,circa,placeholder,src-placeholder
+b-411-14th,storefront,Simms Hardware,hardware,1926,1927,circa,high,src-umn-mndaily-1926-02-10
+b-411-14th,storefront,Storefront (placeholder),retail,1927,1963,circa,placeholder,src-placeholder
+b-411-14th,storefront,Simms Hardware,hardware,1963,,circa,medium,src-popspots;src-hcl-p17208coll7-55759;src-umn-mndaily-1963-09-21;src-umn-campusguide-1982;src-umn-campusguide-1984
 b-411-14th,storefront 2,Espresso Royale,coffeehouse,1987,2004,circa,medium,src-hcl-p17208coll7-61411;src-hcl-p17208coll7-167823
 b-425-14th,storefront,Shop (placeholder),retail,1925,1946,circa,placeholder,src-placeholder
 b-425-14th,storefront,John's Barber Shop,barber,1946,1947,circa,high,src-hcl-HCSchoolPubs-36526
@@ -69,9 +73,15 @@ b-406-14th,storefront,Shop (placeholder),retail,1918,1955,circa,placeholder,src-
 b-406-14th,storefront,Vescio's Italian Restaurant,restaurant,1956,2015,circa,medium,src-hub-vescios;src-hcl-Yearbooks-104473;src-hcl-p17208coll7-25363
 b-406-14th,storefront,Restaurant (placeholder),restaurant,2016,2020,circa,placeholder,src-placeholder
 b-406-14th,storefront,Bonchon Dinky,restaurant,2020,,circa,high,src-hcl-CPED-216168;src-hcl-CPED-219960
-b-414-14th,storefront,Storefront (placeholder),retail,1905,1913,circa,placeholder,src-placeholder
-b-414-14th,storefront,Swain-Farmer Co (fuel and transfer),fuel dealer,1913,1915,circa,high,src-davisons-1913;src-davisons-1914
-b-414-14th,storefront,Storefront (placeholder),retail,1915,1957,circa,placeholder,src-placeholder
+b-414-14th,storefront,Storefront (placeholder),retail,1905,1906,circa,placeholder,src-placeholder
+b-414-14th,storefront,The Gopher Tailors,tailor,1906,1908,circa,high,src-umn-mndaily-1906-11-24;src-umn-mndaily-1907-03-13
+b-414-14th,storefront,Storefront (placeholder),retail,1908,1910,circa,placeholder,src-placeholder
+b-414-14th,storefront,U Hat Shop,shop,1910,1911,circa,high,src-umn-mndaily-1910-12-14
+b-414-14th,storefront,Storefront (placeholder),retail,1911,1913,circa,placeholder,src-placeholder
+b-414-14th,storefront,Swain-Farmer Co (fuel and transfer),fuel dealer,1913,1924,circa,high,src-davisons-1913;src-davisons-1914;src-umn-mndaily-1915-09-15;src-umn-mndaily-1923-12-14
+b-414-14th,storefront,Storefront (placeholder),retail,1924,1943,circa,placeholder,src-placeholder
+b-414-14th,storefront,Sparkle Cleaners,dry cleaner,1943,1944,circa,high,src-umn-mndaily-1943-11-05
+b-414-14th,storefront,Storefront (placeholder),retail,1944,1957,circa,placeholder,src-placeholder
 b-414-14th,storefront,Ten O'Clock Scholar,coffeehouse,1958,1963,circa,medium,src-popspots
 b-414-14th,storefront,Shop (placeholder),retail,1964,1965,circa,placeholder,src-placeholder
 b-414-14th,storefront,Bower and Haack Microscopes,optical shop,1965,1966,circa,high,src-hcl-Yearbooks-104473
@@ -95,7 +105,11 @@ b-1401-4th,corner,Drugstore (placeholder),pharmacy,1902,1919,circa,placeholder,s
 b-1401-4th,corner,University Drug Store,pharmacy,1919,1920,circa,medium,src-umn-mndaily-1919-10-21;src-umn-mndaily-1919-10-28
 b-1401-4th,corner,Drugstore (placeholder),pharmacy,1920,1950,circa,placeholder,src-placeholder
 b-1401-4th,corner,Bar (placeholder),bar,1950,,circa,placeholder,src-placeholder
-b-1411-4th,storefront,Café (placeholder),restaurant,1930,1958,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Café (placeholder),restaurant,1930,1947,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Bookhunters,bookstore,1947,1949,circa,high,src-umn-mndaily-1947-02-28;src-umn-mndaily-1948-05-13
+b-1411-4th,storefront,Café (placeholder),restaurant,1949,1954,circa,placeholder,src-placeholder
+b-1411-4th,storefront,Varsity Bookstore,bookstore,1954,1955,circa,high,src-umn-mndaily-1954-01-18
+b-1411-4th,storefront,Café (placeholder),restaurant,1955,1958,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Varsity Art Store,art and framing shop,1958,1967,circa,high,src-hcl-Yearbooks-52506;src-hcl-HCSchoolPubs-37673;src-hcl-HCSchoolPubs-36585
 b-1411-4th,storefront,Café (placeholder),restaurant,1967,1982,circa,placeholder,src-placeholder
 b-1411-4th,storefront,Campus Card,card shop,1982,1985,circa,high,src-umn-campusguide-1982;src-umn-campusguide-1984
@@ -111,7 +125,23 @@ b-1316-4th,dinkydale 3,The Tannery,shoe store,1981,1985,circa,high,src-umn-campu
 b-1316-4th,dinkydale 4,University Optique and Contact Lenses,optical shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
 b-1316-4th,dinkydale 5,The Store,clothing store,1981,1984,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982
 b-1316-4th,dinkydale 6,Needle Point of View,yarn shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1984
-b-1316-4th,dinkydale 7,Lowell Lundeen,jeweler,1982,1985,circa,high,src-umn-campusguide-1982;src-umn-campusguide-1984
+b-1316-4th,dinkydale 7,Lowell Lundeen,jeweler,1973,1985,circa,high,src-umn-mndaily-1973-11-14;src-umn-mndaily-1974-12-02;src-umn-campusguide-1982;src-umn-campusguide-1984
 b-1316-4th,upstairs,Dinkydale Scientific Fiction,bookstore,1981,1982,circa,high,src-umn-campusguide-1981
 b-1316-4th,dinkydale 8,Dinkytown's Consignment Shop,second-hand goods,1981,1982,circa,high,src-umn-campusguide-1981
 b-425-14th,storefront 3,Varsity Prints and Frames,art and framing shop,1981,1985,circa,high,src-umn-campusguide-1981;src-umn-campusguide-1982;src-umn-campusguide-1984
+b-411-14th,upstairs,Acme Printing Co.,printer,1921,1924,circa,high,src-umn-mndaily-1921-05-10;src-umn-mndaily-1923-12-14
+b-411-14th,storefront 3,McGrew's Value Store,variety store,1935,1936,circa,high,src-umn-mndaily-1935-05-01
+b-414-14th,storefront 2,"J. Tracy Young and B. E. Bryan, barbers",barber,1905,1906,circa,high,src-umn-mndaily-1905-02-07
+b-414-14th,storefront 2,Bower and Haack Microscopes,optical shop,1956,1960,circa,high,src-umn-mndaily-1956-06-29;src-umn-mndaily-1959-04-14
+b-1411-4th,upstairs,American Youth Abroad,travel agency,1949,1950,circa,high,src-umn-mndaily-1949-04-30
+b-1411-4th,storefront 2,Crane's Office & School Supplies,office supply,1967,1968,circa,high,src-umn-mndaily-1967-05-29
+b-1315-4th-2,storefront 3,Campus Fashions,clothing store,1964,1967,circa,high,src-umn-mndaily-1964-09-20;src-umn-mndaily-1966-09
+b-1315-4th-2,room 2,Count Erik's Travel Service,travel agency,1966,1967,circa,high,src-umn-mndaily-1966-08-02
+b-1315-4th-2,upstairs,Copy Co-op,copy shop,1973,1975,circa,high,src-umn-mndaily-1973-09-25;src-umn-mndaily-1974-01-03
+b-1315-4th-2,hotel,College Inn Hotel,hotel,1952,1953,circa,medium,src-umn-mndaily-1952-11-26
+b-327-14th,upstairs office 4,University Beauty Shop,beauty shop,1923,1924,circa,high,src-umn-mndaily-1923-11-28
+b-327-14th,upstairs office 5,Branch Studio (photographer),photographer,1921,1923,circa,high,src-umn-mndaily-1921-05-03;src-umn-mndaily-1922-05-16
+b-327-14th,basement,"E. H. Miller, bookbinding",bookbinder,1921,1922,circa,high,src-umn-mndaily-1921-05-26
+b-327-14th,upstairs office 6,Better Farming Association,office,1921,1922,circa,high,src-umn-mndaily-1921-03-31
+b-327-14th,storefront 2,Crate Prospects,furniture store,1978,1979,circa,high,src-umn-mndaily-1978-10-25
+b-425-14th,storefront 4,Dave's Barber Shop,barber,1967,1968,circa,high,src-umn-mndaily-1967-09
